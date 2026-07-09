@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8b017939ff21802c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a2f246e23e779e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee785f2c13ec6544",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0799d3e87cf13034",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ce7304c479ab4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8564262d29f4dca4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3f63842b5950588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48e1277f93314365",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "62fd29d0f725f7af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb95d8c7b66ab65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869efdaf5aff8be6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "canvas/250528-Excalidraw-BlockSecurity.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 250528-Excalidraw-BlockSecurity.excalidraw"
+            }
+          },
+          {
+            "id": "e06a204e06220970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/core/@Javascript/Declaración de Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Declaración de Variables"
+            }
+          },
+          {
+            "id": "5732f87f8f7a9a40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99318edec5f912ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/core/@Javascript/Declaración de Variables.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Declaración de Variables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ee785f2c13ec6544",
+  "lastOpenFiles": [
+    "Mapa de Conocimiento.md",
+    "README.md",
+    "index 🤔.md",
+    "main/$Convención de Tokens, System Design.md",
+    "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md",
+    "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md",
+    "canvas/250528-Excalidraw-SmartCase.excalidraw.md",
+    "canvas/250526-Excalidraw-Khumox.excalidraw.md",
+    "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md",
+    "main/$Clean Architecture/Dependency Rule on Clean Architecture.md",
+    "main/$Clean Architecture/Introduction to Clean Architecture.md",
+    "main/$Clean Architecture/Advantages, Cost & Implementation of Clean Architecture.md",
+    "main/$Software Engeenier/Laws of Software Engineering.md",
+    "main/$Software Engeenier",
+    "main/$Design System/Primitives, Colors (Colores).md",
+    "main/$Design System/Primitives, Typography (Tipografía).md",
+    "main/$Design System/Primitives, Size (Espaciado).md",
+    "main/$Design System",
+    "main/$React.md",
+    "main/$Considereaciones React Native, Expo.md",
+    "public/now/drafts/develop/react/Most used React hooks.md",
+    "assests/Pasted image 20260526201831.png",
+    "main/$Patrones de Arquitectura de Software.md",
+    "main/$React, Clean Architecture.md",
+    "jobs/subinlaw/Meetings/Meet. 241118, Funding.md",
+    "jobs/subinlaw/Meetings/Meet. 241210, IT.md",
+    "jobs/subinlaw/Meetings/Meet. Smart Advocate.md",
+    "jobs/subinlaw/Meetings",
+    "jobs/subinlaw",
+    "main/$Hexagonal Architecture, DDD (Domain Driven Development).md",
+    "public/now/drafts/proyects/Block Security. Convenciones.md",
+    "jobs/Quipus/devs",
+    "jobs/Quipus/design",
+    "jobs/Quipus",
+    "canvas/Untitled.canvas",
+    "public/now/drafts/others",
+    "public/now/drafts/business",
+    "public/now/drafts/iso",
+    "assests/Pasted image 20250923115345.png",
+    "assests/Pasted image 20250923114349.png",
+    "assests/Pasted image 20250923114155.png",
+    "assests/Pasted image 20250923113951.png",
+    "assests/Pasted image 20250923113726.png",
+    "assests/Pasted image 20250923113024.png",
+    "assests/Pasted image 20250923112659.png",
+    "assests/Pasted image 20250923112516.png",
+    "assests/Pasted image 20250923112303.png",
+    "canvas/Sin título.canvas"
+  ]
+}

@@ -1,0 +1,2 @@
+Es un servicio administrado que le permite crear y controlar fácilmente las claves de cifrado que se utilizan para proteger sus datos. AWS KMS utiliza módulos de seguridad de hardware (HSM) para proteger y validar su AWS KMS keys
+le permite ejercer un control centralizado de las claves criptográficas que se utilizan para proteger los datos.

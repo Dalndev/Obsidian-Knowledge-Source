@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "d6675f93358c7aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc95fbab3632d300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96096a2733584739",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5874394e8f620150",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a153c22e08a710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a287f45bc85556c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efdb8b064b7aadf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SaaS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0072409026ab356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e68958a1ad6bf605",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4d03e924aa7dee63",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5847de0be2c1a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d013621b2fa887bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61e6a784874f9d04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "226ff07fd1558a0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efa819390bc94bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7a287f45bc85556c",
+  "lastOpenFiles": [
+    "100 - Proyects/107 - Requirements/Recommend Me! Shopify App.md",
+    "100 - Proyects/107 - Requirements",
+    "400 - Archives/401 - UML Diagrams/UML Diagrams ER.png",
+    "400 - Archives/401 - UML Diagrams/Sin título.md",
+    "400 - Archives/401 - UML Diagrams",
+    "300 - Resources/305 - Databases/Relational Database.md",
+    "300 - Resources/305 - Databases/No Relational Database.md",
+    "300 - Resources/305 - Databases/305 - Bibliografia.md",
+    "010 - Others/Minería de Datos.md",
+    "010 - Others",
+    "E-Commerce/Diagrams/Shopify Events.excalidraw.md",
+    "E-Commerce/Diagrams/SAWS_General.excalidraw.md",
+    "E-Commerce/Diagrams/SAWS_Event_Handler.excalidraw.md",
+    "E-Commerce/Diagrams/AWS Services Architecture.excalidraw.md",
+    "E-Commerce/Diagrams/AWS Aurora Database.excalidraw.md",
+    "100 - Proyects/102 - Shopify Services/Shopify Orders.md",
+    "100 - Proyects/102 - Shopify Services/Shopify Customers.md",
+    "100 - Proyects/102 - Shopify Services/Shopify Collect.md",
+    "100 - Proyects/103 - AWS & Shopify Architecture/Serverless Architecture.md",
+    "E-Commerce/Tasks/Kanban Dashboard.md",
+    "E-Commerce/Documents",
+    "E-Commerce/Diagrams/AWS Serverless Architecture.excalidraw.md",
+    "100 - Proyects/103 - AWS & Shopify Architecture/Untitled.md",
+    "100 - Proyects/101 - AWS Serverless Services/AWS RDS Proxy.md",
+    "100 - Proyects/101 - AWS Serverless Services/AWS ElastiCache.md",
+    "100 - Proyects/101 - AWS Serverless Services/AWS Key Management Service.md",
+    "100 - Proyects/101 - AWS Serverless Services/AWS Identity And Access Managament.md",
+    "100 - Proyects/101 - AWS Serverless Services/Amazon Web Servicess.md",
+    "E-Commerce/Diagrams/AWS Serverless Architecture.md",
+    "100 - Proyects/101 - AWS Serverless Services/AWS Security Groups.md",
+    "100 - Proyects/102 - Shopify Services/Shopify Transaction.md",
+    "E-Commerce/Diagrams/Shopify_ER.png",
+    "300 - Resources/305 - Databases",
+    "E-Commerce/Tasks",
+    "E-Commerce/Tutoring/Tutoring_Registration.gsheet",
+    "E-Commerce/Tutoring/desktop.ini",
+    "E-Commerce/Tutoring/Tutories_Register.gsheet",
+    "E-Commerce/Tutoring",
+    "E-Commerce/Anexos/Shopify_Icon.jpg",
+    "E-Commerce/Resources/Images/Logos/Minifashion.svg",
+    "E-Commerce/Resources/Images/Logos/Minifashion_Logo.jpg",
+    "Logo.jpg",
+    "Logo.svg"
+  ]
+}

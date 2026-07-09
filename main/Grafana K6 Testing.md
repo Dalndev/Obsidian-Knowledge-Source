@@ -1,0 +1,1 @@
+**Spike Testing**. A spike test verifies whether the system survives and performs under sudden and massive rushes of utilization.

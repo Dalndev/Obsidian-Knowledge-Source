@@ -1,0 +1,3 @@
+- **Como los sistemas pueden ayudar a las personas?** 
+- **Cual es mi mercado objetivo en el cual se va a desarrollar? Es general o especifico?** 
+- **Cuan complejo es seguir el sistema a implantar?**

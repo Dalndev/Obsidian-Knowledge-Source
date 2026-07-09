@@ -1,0 +1,12 @@
+---
+tags:
+  - email
+---
+---
+- **AAAA**.
+- **CNAME**.
+- **TXT**.
+- **SPF**.
+- **DKIM**.
+- **DMARC**.
+- **MX**.

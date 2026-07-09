@@ -1,0 +1,2 @@
+- https://medium.com/swlh/everything-you-need-to-know-about-serverless-architecture-5cdc97e48c09
+- https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be

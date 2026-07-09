@@ -1,0 +1,15 @@
+- **Outlook**: Todo se almacena en smart advocate. "*Solo se implementa el outlook para correos*".
+- Verificar si existe integración smart advocate con Gmail.
+- La información se origina en smart advocate.
+- Se cobra licencia ***basic***, *standard* o *premium*.
+# Meet 12112024
+---
+- Actualizar colores, las fechas de payoff deben estar marcados mas no deben estar definidos periodos manuales.
+	- Formula roja referencia a la mas nueva.
+	- Azul es variable "*Cuando la fecha no termina =TODAY()*"
+	- Negro cuando ya esta definido "*Cuando ya esta definida la fecha*"
+- Formula *1129 Template*
+- **No cambiar formato del excel, formulas nada.**
+- *WildApricot*, Software ... 
+	- Cotización de competencias, servicios...
+- Analizar integración de Claude...
