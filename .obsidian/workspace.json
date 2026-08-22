@@ -11,14 +11,14 @@
             "id": "ee785f2c13ec6544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1Invoices n8n (Automatización)"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -152,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/core/@Javascript/Declaración de Variables.md"
+                "file": "src/core/@Javascript/Declaración de Variables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Declaración de Variables"
+              "title": "Outline"
             }
           },
           {
@@ -173,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee785f2c13ec6544",
+  "active": "7c5ffea0a5bf48d9",
   "lastOpenFiles": [
-    "main/Receive.md",
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
+    "main/Receive.md",
     "jobs/andelytica/Knowledge",
     "jobs/andelytica",
     "jobs/villagomez-capital/Knowledge",
