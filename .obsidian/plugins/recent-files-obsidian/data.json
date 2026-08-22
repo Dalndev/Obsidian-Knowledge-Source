@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "main/$Cheatsheets/Git.md"
+    },
+    {
+      "basename": "$React",
+      "path": "main/$React.md"
+    },
+    {
       "basename": "1Invoices n8n (Automatización)",
       "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Primitives, Size (Espaciado)",
       "path": "main/$Design System/Primitives, Size (Espaciado).md"
-    },
-    {
-      "basename": "$React",
-      "path": "main/$React.md"
     },
     {
       "basename": "$Considereaciones React Native, Expo",

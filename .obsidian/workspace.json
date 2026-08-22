@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a2f246e23e779e",
+        "id": "349678db20ea519e",
         "type": "tabs",
         "children": [
           {
-            "id": "ee785f2c13ec6544",
+            "id": "47b3e1e27456c4bd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "main/$Cheatsheets/Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Git"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/core/@Javascript/Declaración de Variables.md",
+                "file": "main/$Cheatsheets/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +192,15 @@
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-importer:Import notes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7c5ffea0a5bf48d9",
+  "active": "47b3e1e27456c4bd",
   "lastOpenFiles": [
+    "main/$React.md",
+    "main/$Cheatsheets/Git.md",
+    "main/$Cheatsheets",
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
     "main/Receive.md",
     "jobs/andelytica/Knowledge",
@@ -218,7 +224,6 @@
     "main/$Design System/Primitives, Typography (Tipografía).md",
     "main/$Design System/Primitives, Size (Espaciado).md",
     "main/$Design System",
-    "main/$React.md",
     "main/$Considereaciones React Native, Expo.md",
     "public/now/drafts/develop/react/Most used React hooks.md",
     "assests/Pasted image 20260526201831.png",
@@ -226,12 +231,10 @@
     "main/$React, Clean Architecture.md",
     "jobs/subinlaw/Meetings/Meet. 241118, Funding.md",
     "jobs/subinlaw/Meetings/Meet. 241210, IT.md",
-    "jobs/subinlaw/Meetings/Meet. Smart Advocate.md",
     "jobs/subinlaw/Meetings",
     "jobs/subinlaw",
     "jobs/Quipus/devs",
     "jobs/Quipus/design",
-    "jobs/Quipus",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",
     "assests/Pasted image 20250923114349.png",
