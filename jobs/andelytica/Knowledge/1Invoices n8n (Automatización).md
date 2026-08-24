@@ -11,6 +11,7 @@ tags:
 - La Tabla Excel en cada **AR/Sheet** para el registro de actividades del mes en curso debe estar identificado (Properties) con el siguiente formato `Table_<Month (MMMM)>`
 
 **Restricciones**
+- 
 
 **Limpieza de Datos**
 
@@ -40,3 +41,4 @@ function main(workbook: ExcelScript.Workbook) {
 
 **Consideraciones**.
 - No deben existir filtros activos en las plantillas definidas en los...
+- Los sheets considerados "Plantillas" se encuentra en estado `hide` 
