@@ -39,4 +39,4 @@ function main(workbook: ExcelScript.Workbook) {
 ```
 
 **Consideraciones**.
-- No deben existir filtros activos en las plantillas definidas en los
+- No deben existir filtros activos en las plantillas definidas en los...
