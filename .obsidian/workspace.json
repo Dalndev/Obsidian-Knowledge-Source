@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/$Cheatsheets/Git.md",
+                "file": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "1Invoices n8n (Automatización)"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "47b3e1e27456c4bd",
   "lastOpenFiles": [
-    "main/$React.md",
     "main/$Cheatsheets/Git.md",
+    "main/$React.md",
     "main/$Cheatsheets",
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
     "main/Receive.md",

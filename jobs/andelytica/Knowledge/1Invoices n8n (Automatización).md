@@ -37,3 +37,6 @@ function main(workbook: ExcelScript.Workbook) {
     // TODO: Write code or use the Insert action button below.
 }
 ```
+
+**Consideraciones**.
+- No deben existir filtros activos en las plantillas definidas en los
