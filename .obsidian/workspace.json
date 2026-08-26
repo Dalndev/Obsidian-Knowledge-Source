@@ -201,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,9 +210,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-importer:Import notes": false
