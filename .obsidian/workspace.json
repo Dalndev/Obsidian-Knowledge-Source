@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a2f246e23e779e",
+        "id": "684466a37cd02193",
         "type": "tabs",
         "children": [
           {
-            "id": "ee785f2c13ec6544",
+            "id": "cd8c40e75b103e22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "main/$Nvim CheatSheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "$Nvim CheatSheet"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -141,14 +147,33 @@
               "icon": "lucide-list",
               "title": "Outline of Declaración de Variables"
             }
+          },
+          {
+            "id": "cb4491697e922023",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "d04e722eb1375090",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 347,
-    "collapsed": true
+    "width": 347
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,14 +186,35 @@
       "bases:Create new base": false,
       "obsidian-projects:Open projects": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee785f2c13ec6544",
+  "active": "cd8c40e75b103e22",
   "lastOpenFiles": [
-    "Mapa de Conocimiento.md",
-    "README.md",
+    "main/$Business Model Canvas/Busines Model Canvas.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "src/core/@ITSM&ITIL/common/IT Service Management/ITIL/Estrategia de servicios de ITIL.md",
+    "main/$Business Model Canvas",
     "index 🤔.md",
+    "README.md",
     "main/$Convención de Tokens, System Design.md",
     "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md",
     "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md",
@@ -176,34 +222,15 @@
     "canvas/250526-Excalidraw-Khumox.excalidraw.md",
     "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md",
     "main/$Clean Architecture/Dependency Rule on Clean Architecture.md",
-    "main/$Clean Architecture/Introduction to Clean Architecture.md",
-    "main/$Clean Architecture/Advantages, Cost & Implementation of Clean Architecture.md",
-    "main/$Software Engeenier/Laws of Software Engineering.md",
     "main/$Software Engeenier",
-    "main/$Design System/Primitives, Colors (Colores).md",
-    "main/$Design System/Primitives, Typography (Tipografía).md",
-    "main/$Design System/Primitives, Size (Espaciado).md",
     "main/$Design System",
-    "main/$React.md",
-    "main/$Considereaciones React Native, Expo.md",
-    "public/now/drafts/develop/react/Most used React hooks.md",
     "assests/Pasted image 20260526201831.png",
-    "main/$Patrones de Arquitectura de Software.md",
-    "main/$React, Clean Architecture.md",
-    "jobs/subinlaw/Meetings/Meet. 241118, Funding.md",
-    "jobs/subinlaw/Meetings/Meet. 241210, IT.md",
-    "jobs/subinlaw/Meetings/Meet. Smart Advocate.md",
     "jobs/subinlaw/Meetings",
     "jobs/subinlaw",
-    "main/$Hexagonal Architecture, DDD (Domain Driven Development).md",
-    "public/now/drafts/proyects/Block Security. Convenciones.md",
     "jobs/Quipus/devs",
     "jobs/Quipus/design",
     "jobs/Quipus",
     "canvas/Untitled.canvas",
-    "public/now/drafts/others",
-    "public/now/drafts/business",
-    "public/now/drafts/iso",
     "assests/Pasted image 20250923115345.png",
     "assests/Pasted image 20250923114349.png",
     "assests/Pasted image 20250923114155.png",

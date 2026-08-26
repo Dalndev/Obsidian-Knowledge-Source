@@ -2,7 +2,6 @@
 tags:
   - it
 ---
-
 Estrategias de servicios de ITIL consiste en determinar los servicios que debe ofrecer tu organización de TI y para qué clientes. Permitiendo diseñar, desarrollar, ofrecer y gestionar los servicios de una manera eficiente y rentable.
 
 ### Procesos de la estrategia de servicios de ITIL

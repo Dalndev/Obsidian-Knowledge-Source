@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Mapa de Conocimiento",
-      "path": "Mapa de Conocimiento.md"
+      "basename": "$Nvim CheatSheet",
+      "path": "main/$Nvim CheatSheet.md"
+    },
+    {
+      "basename": "Busines Model Canvas",
+      "path": "main/$Business Model Canvas/Busines Model Canvas.md"
+    },
+    {
+      "basename": "Estrategia de servicios de ITIL",
+      "path": "src/core/@ITSM&ITIL/common/IT Service Management/ITIL/Estrategia de servicios de ITIL.md"
     },
     {
       "basename": "index 🤔",
       "path": "index 🤔.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Mapa de Conocimiento",
+      "path": "Mapa de Conocimiento.md"
     },
     {
       "basename": "$Convención de Tokens, System Design",
@@ -183,22 +199,6 @@
     {
       "basename": "All about variables on JS",
       "path": "public/now/drafts/develop/All about variables on JS.md"
-    },
-    {
-      "basename": "Server Side Rendering in Angular",
-      "path": "public/now/drafts/develop/Server Side Rendering in Angular.md"
-    },
-    {
-      "basename": "Real-Time Communication with Clients",
-      "path": "public/now/drafts/develop/Real-Time Communication with Clients.md"
-    },
-    {
-      "basename": "NVIM",
-      "path": "public/now/drafts/develop/NVIM.md"
-    },
-    {
-      "basename": "Most used React hooks",
-      "path": "public/now/drafts/develop/Most used React hooks.md"
     }
   ],
   "omittedPaths": [],

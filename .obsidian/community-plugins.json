@@ -13,5 +13,7 @@
   "obsidian-linter",
   "obsidian-latex-suite",
   "nldates-obsidian",
-  "mehrmaid"
+  "mehrmaid",
+  "copilot",
+  "obsidian-git"
 ]
