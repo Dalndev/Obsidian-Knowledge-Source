@@ -195,10 +195,6 @@
     {
       "basename": "Importaciones y Distribuidora",
       "path": "public/now/drafts/business/Importaciones y Distribuidora.md"
-    },
-    {
-      "basename": "All about variables on JS",
-      "path": "public/now/drafts/develop/All about variables on JS.md"
     }
   ],
   "omittedPaths": [],
