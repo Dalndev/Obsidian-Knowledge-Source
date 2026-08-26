@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "$Nvim CheatSheet",
-      "path": "main/$Nvim CheatSheet.md"
+      "basename": "Nvim",
+      "path": "main/$Cheatsheets/Nvim.md"
+    },
+    {
+      "basename": "Git",
+      "path": "main/$Cheatsheets/Git.md"
     },
     {
       "basename": "Busines Model Canvas",

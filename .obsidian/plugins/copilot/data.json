@@ -1,42 +1,37 @@
 {
   "userId": "f35bdeb5-13c2-4701-a69e-785343386020",
+  "isPaidUser": false,
   "isPlusUser": false,
+  "entitlementToken": "",
+  "entitlementExpiresAt": 0,
   "plusLicenseKey": "",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "",
-  "azureOpenAIApiInstanceName": "",
-  "azureOpenAIApiDeploymentName": "",
-  "azureOpenAIApiVersion": "",
-  "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
-  "amazonBedrockApiKey": "",
-  "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
-  "githubCopilotAccessToken": "",
-  "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
-  "temperature": 0.1,
-  "maxTokens": 6000,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
+  "copilotFolder": "copilot",
+  "copilotRootHistory": [
+    "copilot"
+  ],
+  "upgradedToV8FromLegacy": false,
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
-  "generateAIChatTitleOnSave": true,
   "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
@@ -59,10 +54,10 @@
       "isBuiltIn": true,
       "core": true,
       "plusExclusive": true,
-      "projectEnabled": false,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": false,
       "apiKey": ""
     },
     {
@@ -71,10 +66,10 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": true,
       "apiKey": ""
     },
     {
@@ -435,27 +430,16 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "apiKey": ""
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
     }
   ],
   "embeddingRequestsPerMin": 60,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
-  "showRelevantNotes": true,
   "numPartitions": 1,
   "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
-  "projectListSortStrategy": "recent",
   "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
@@ -467,16 +451,17 @@
   "enableSemanticSearchV3": false,
   "enableSelfHostMode": false,
   "enableMiyo": false,
+  "enableMiyoSearchSkill": false,
   "miyoSearchAll": false,
-  "selfHostModeValidatedAt": null,
-  "selfHostValidationCount": 0,
-  "selfHostUrl": "",
-  "selfHostApiKey": "",
   "miyoServerUrl": "",
+  "miyoSyncedExclusions": "",
   "selfHostSearchProvider": "firecrawl",
   "firecrawlApiKey": "",
   "perplexityApiKey": "",
+  "parallelApiKey": "",
+  "exaApiKey": "",
   "supadataApiKey": "",
+  "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": true,
   "autonomousAgentMaxIterations": 4,
@@ -505,6 +490,91 @@
   "defaultSystemPromptTitle": "",
   "autoCompactThreshold": 128000,
   "convertedDocOutputFolder": "",
-  "_keychainOnly": true,
-  "_keychainVaultId": "5e19b278"
+  "agentMode": {
+    "byok": {},
+    "activeBackend": "claude",
+    "backends": {},
+    "debugFullFrames": true,
+    "welcomeDismissed": false,
+    "skills": {
+      "folder": "copilot/skills"
+    }
+  },
+  "providers": {
+    "02a346d8-0200-49d2-a948-a3e1d450c76e": {
+      "providerType": "anthropic",
+      "displayName": "Claude",
+      "origin": {
+        "kind": "agent",
+        "agentType": "claude"
+      },
+      "requiresApiKey": false,
+      "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
+      "addedAt": 1787705103815,
+      "apiKeyKeychainId": null
+    }
+  },
+  "configuredModels": [
+    {
+      "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
+      "info": {
+        "id": "default",
+        "displayName": "Default (recommended)",
+        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
+      },
+      "configuredModelId": "fa2c15c6-5a6e-4652-bb91-dd267f44fdf8",
+      "configuredAt": 1787705104857
+    },
+    {
+      "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
+      "info": {
+        "id": "opus[1m]",
+        "displayName": "Opus (1M context)",
+        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
+      },
+      "configuredModelId": "a3341fee-725b-400c-9e9f-56fa3be8ba16",
+      "configuredAt": 1787705104858
+    },
+    {
+      "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
+      "info": {
+        "id": "sonnet",
+        "displayName": "Sonnet",
+        "description": "Sonnet 5 · Efficient for routine tasks · $3/$15 per Mtok"
+      },
+      "configuredModelId": "4a19a0cc-774b-4d0f-b04e-de02d56ca8fb",
+      "configuredAt": 1787705104859
+    },
+    {
+      "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
+      "info": {
+        "id": "haiku",
+        "displayName": "Haiku",
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
+      },
+      "configuredModelId": "e1c1f7ae-aaac-4912-a577-c0b8123b2127",
+      "configuredAt": 1787705104859
+    }
+  ],
+  "backends": {
+    "claude": {
+      "enabledModels": [
+        "fa2c15c6-5a6e-4652-bb91-dd267f44fdf8",
+        "a3341fee-725b-400c-9e9f-56fa3be8ba16",
+        "4a19a0cc-774b-4d0f-b04e-de02d56ca8fb",
+        "e1c1f7ae-aaac-4912-a577-c0b8123b2127"
+      ]
+    }
+  },
+  "temperature": 0.1,
+  "generateAIChatTitleOnSave": true,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
+  "projectListSortStrategy": "recent",
+  "selfHostModeValidatedAt": null,
+  "selfHostValidationCount": 0,
+  "selfHostUrl": "",
+  "selfHostApiKey": "",
+  "_keychainVaultId": "5e19b278",
+  "settingsVersion": 12
 }

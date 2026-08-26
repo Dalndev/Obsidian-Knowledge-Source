@@ -11,14 +11,14 @@
             "id": "e97e24fa8057c570",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "main/$Cheatsheets/Nvim.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Nvim"
             }
           }
         ]
@@ -75,6 +75,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f4d9938e6499db2e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
           }
         ]
       }
@@ -115,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/core/@Javascript/Declaración de Variables.md",
+                "file": "main/$Cheatsheets/Nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Declaración de Variables"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/core/@Javascript/Declaración de Variables.md"
+                "file": "main/$Cheatsheets/Nvim.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Declaración de Variables"
+              "title": "Outline"
             }
           },
           {
@@ -155,7 +168,7 @@
               "type": "copilot-chat-view",
               "state": {},
               "icon": "message-square",
-              "title": "Copilot"
+              "title": "Copilot (Quick Chat)"
             }
           },
           {
@@ -167,13 +180,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d0e1208b76cb0cef",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,48 +211,49 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "obsidian-importer:Import notes": false
     }
   },
   "active": "e97e24fa8057c570",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "main/$Nvim CheatSheet.md",
     "main/$Cheatsheets/Git.md",
-    "main/$Cheatsheets",
+    "main/$Cheatsheets/Nvim.md",
+    "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
+    "copilot/copilot-conversations/agent__Cambia_el_formato_markdown_definido_en_el_archivo_Nvim_al@20260825_195142.md",
+    "copilot/copilot-conversations",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/symposium-publish/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
+    "conflict-files-obsidian-git.md",
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
-    "jobs/andelytica/Knowledge",
-    "jobs/andelytica",
     "main/$Business Model Canvas/Busines Model Canvas.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "src/core/@ITSM&ITIL/common/IT Service Management/ITIL/Estrategia de servicios de ITIL.md",
-    "main/$Business Model Canvas",
-    "index 🤔.md",
-    "README.md",
-    "main/$Convención de Tokens, System Design.md",
-    "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md",
-    "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md",
-    "main/$Software Engeenier",
-    "main/$Design System",
     "assests/Pasted image 20260526201831.png",
-    "jobs/subinlaw/Meetings",
-    "jobs/subinlaw",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",
     "assests/Pasted image 20250923114349.png",
