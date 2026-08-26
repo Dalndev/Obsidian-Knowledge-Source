@@ -20,25 +20,35 @@ La *Limpieza & Tratamiento* de información registrada en los AR's (Activities R
 	1. Filtrar **filas** sin información registrada (Issue, Start Time, Units, End Time)
 	2. Filtrar **filas** con valores vacíos en sus celdas.
 
-**Legacy Invoice (Scripts)**
-
-```javascript
-function main(workbook: ExcelScript.Workbook) {
-
-    // Get the active cell and worksheet.
-
-    let selectedCell = workbook.getActiveCell();
-
-    let selectedSheet = workbook.getActiveWorksheet();
-
-    // Set fill color to yellow for the selected cell.
-
-    selectedCell.getFormat().getFill().setColor("yellow");
-
-    // TODO: Write code or use the Insert action button below.
-}
-```
-
 **Consideraciones**.
 - No deben existir filtros activos en las plantillas definidas en los...
-- Los sheets considerados "Plantillas" se encuentra en estado `hide` 
+- Los sheets considerados "Plantillas" se encuentra en estado `hide` ...
+- Los registros de actividades deben estar con la información completa...
+- El workbook no debe estar abierto en ningún cliente (Escritorio, Web) durante la ejecución del workflow ya que provoca un lock state al momento de la modificación del archivo.
+- \*Los colaboradores deben tener asignados un Schedule (Horario) con sus correspondiente Horario & Departamento (Area) `Worksheet := Horarios`
+- Las unidades registradas deben ser validadas bajo las siguientes restricciones
+	- Las unidades deben ser diferentes de 0
+
+**Códigos de Errores**.
+
+**I/O**.
+C000. Workbook is not loaded, Indica que...
+C001. Filter button found, Indica que...
+
+**Worksheet**
+C101. Worksheet already exists in workbook, Indica que ...
+C102. Worksheet name is required, Indica que...
+C103. Worksheet name characters max length, Indica que...
+C104. Worksheet name invalid characters, Indica que...
+
+**Table**
+C201. Table invalid range, Indica que...
+C202. Table range not supported, Indica que...
+
+**Cells**
+C301. Invalid cell direction exception, Indica que...
+
+**Templates**
+C401. Template worksheet not exists, Indica que...
+C402. Template table not exists, Indica que..
+
