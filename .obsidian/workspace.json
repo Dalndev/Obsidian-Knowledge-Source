@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/$Cheatsheets/Nvim.md",
-                "mode": "source",
+                "file": "main/$Cheatsheets/Tmux.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nvim"
+              "title": "Tmux"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/$Cheatsheets/Nvim.md",
+                "file": "main/$Cheatsheets/Tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/$Cheatsheets/Nvim.md",
+                "file": "main/$Cheatsheets/Tmux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -216,10 +217,12 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e97e24fa8057c570",
+  "active": "d04e722eb1375090",
   "lastOpenFiles": [
-    "main/$Cheatsheets/Git.md",
     "main/$Cheatsheets/Nvim.md",
+    "main/$Cheatsheets/Tmux.md",
+    "main/$Cheatsheets/Unconfirmed 211284.crdownload",
+    "main/$Cheatsheets/Git.md",
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
     "copilot/copilot-conversations/agent__Cambia_el_formato_markdown_definido_en_el_archivo_Nvim_al@20260825_195142.md",
     "copilot/copilot-conversations",
@@ -236,7 +239,6 @@
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",

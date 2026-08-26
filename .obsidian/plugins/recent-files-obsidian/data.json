@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tmux",
+      "path": "main/$Cheatsheets/Tmux.md"
+    },
+    {
       "basename": "Nvim",
       "path": "main/$Cheatsheets/Nvim.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ISO 15489, Información y documentación. Gestión de documentos de archivos",
       "path": "public/now/drafts/iso/ISO 15489, Información y documentación. Gestión de documentos de archivos.md"
-    },
-    {
-      "basename": "Importaciones y Distribuidora",
-      "path": "public/now/drafts/business/Importaciones y Distribuidora.md"
     }
   ],
   "omittedPaths": [],
