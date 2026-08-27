@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -197,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125
+    "width": 454.3828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +216,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "d04e722eb1375090",
+  "active": "e97e24fa8057c570",
   "lastOpenFiles": [
     "main/$Cheatsheets/Nvim.md",
     "main/$Cheatsheets/Tmux.md",
