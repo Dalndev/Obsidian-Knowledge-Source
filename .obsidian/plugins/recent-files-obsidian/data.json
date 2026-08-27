@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "$M365 Billing",
-      "path": "jobs/ti/$M365 Billing.md"
+      "basename": "Invoincement. Protocol, Gestión para Ejecución de Creación de Factura",
+      "path": "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md"
+    },
+    {
+      "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
+      "path": "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md"
+    },
+    {
+      "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
+      "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
+    },
+    {
+      "basename": "M365 Conditional Access Setup",
+      "path": "jobs/ti/M365 Conditional Access Setup.md"
+    },
+    {
+      "basename": "M365 Billing Setup",
+      "path": "jobs/ti/M365 Billing Setup.md"
     },
     {
       "basename": "Tmux",
@@ -183,22 +199,6 @@
     {
       "basename": "B2B Collaboration by Cross-tenant Access",
       "path": "public/now/drafts/microsoft/B2B Collaboration by Cross-tenant Access.md"
-    },
-    {
-      "basename": "Azure Change (Events) Notifications",
-      "path": "public/now/drafts/microsoft/Azure Change (Events) Notifications.md"
-    },
-    {
-      "basename": "Gestión de Documentos (SGDD)",
-      "path": "public/now/drafts/iso/Gestión de Documentos (SGDD).md"
-    },
-    {
-      "basename": "Organización de Directorios",
-      "path": "public/now/drafts/iso/Organización de Directorios.md"
-    },
-    {
-      "basename": "ISO 27001, Capacitación & Certificación",
-      "path": "public/now/drafts/iso/ISO 27001, Capacitación & Certificación.md"
     }
   ],
   "omittedPaths": [],
