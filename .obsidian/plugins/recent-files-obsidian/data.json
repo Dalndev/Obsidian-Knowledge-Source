@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "$M365 Billing",
+      "path": "jobs/ti/$M365 Billing.md"
+    },
+    {
       "basename": "Tmux",
       "path": "main/$Cheatsheets/Tmux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ISO 27001, Capacitación & Certificación",
       "path": "public/now/drafts/iso/ISO 27001, Capacitación & Certificación.md"
-    },
-    {
-      "basename": "ISO 15489, Información y documentación. Gestión de documentos de archivos",
-      "path": "public/now/drafts/iso/ISO 15489, Información y documentación. Gestión de documentos de archivos.md"
     }
   ],
   "omittedPaths": [],
