@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
+                "file": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invoincement. Protocol, Gestión para Ejecución de Creación de Factura"
+              "title": "1Invoices n8n (Automatización)"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -218,8 +219,8 @@
   },
   "active": "0c3920745a0fc603",
   "lastOpenFiles": [
-    "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
     "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
+    "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
     "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
     "jobs/ti/M365 Conditional Access Setup.md",
     "jobs/ti/M365 Billing Setup.md",

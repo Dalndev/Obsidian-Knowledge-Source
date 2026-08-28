@@ -6,15 +6,17 @@ tags:
   - ars
 ---
 **Requisitos**
-
 - La Tabla Excel no debe incluir la contabilización de las "**Horas Totales (Unidades)**" registradas en los AR's
 - La Tabla Excel en cada **AR/Sheet** para el registro de actividades del mes en curso debe estar identificado (Properties) con el siguiente formato `Table_<Month (MMMM)>`
 
 **Restricciones**
-- 
+Las propiedades de los archivos de datos fuentes deben ser consistentes en cada uno de los de los archivos existentes, la variación en uno de estos provocaria que el flujo falla.
+- ARs (Excel). Table Name
+- ARs (Excel). Sheet Name
+
+Durante la ejecución del flujo es necesario que los archivos no se encuentren abiertos por los clientes, debido a que se puede dar un estado `lock`.
 
 **Limpieza de Datos**
-
 La *Limpieza & Tratamiento* de información registrada en los AR's (Activities Reports) de cada colaborador, debe realizar.
 1. Suprimir las filas con las siguientes condiciones.
 	1. Filtrar **filas** sin información registrada (Issue, Start Time, Units, End Time)
@@ -52,3 +54,18 @@ C301. Invalid cell direction exception, Indica que...
 C401. Template worksheet not exists, Indica que...
 C402. Template table not exists, Indica que..
 
+## Addons
+
+**Colaboradores**.
+- Camari A. Salas
+- Jonathan C. Nasimba
+- Erika L. Ulloa
+- Maria M. Escandon
+- Alejandro J. Mera
+- Cristhian M. Nasimba
+- Joffre A. Condor
+- Stalin D. Pillajo
+- Andre G. Martinez
+- Andres M. Chavez
+- Galo W. Zarabia
+- 
