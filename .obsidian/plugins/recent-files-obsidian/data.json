@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "1Invoice n8n Azure (Infraestructure)",
+      "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
+    },
+    {
+      "basename": "M365. Setup, Azure Subscription",
+      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
+    },
+    {
+      "basename": "M365. Setup, Conditional Access",
+      "path": "jobs/ti/M365. Setup, Conditional Access.md"
+    },
+    {
+      "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
+      "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
+    },
+    {
+      "basename": "M365. Setup, Billing (Multitenant)",
+      "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
+    },
+    {
+      "basename": "1Azure CLI WSL (Ubuntu)",
+      "path": "jobs/andelytica/Knowledge/1Azure CLI WSL (Ubuntu).md"
+    },
+    {
       "basename": "1Synologi NAS Integration Microsoft 365",
       "path": "jobs/andelytica/Knowledge/1Synologi NAS Integration Microsoft 365.md"
     },
@@ -15,18 +39,6 @@
     {
       "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
       "path": "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md"
-    },
-    {
-      "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
-      "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
-    },
-    {
-      "basename": "M365 Conditional Access Setup",
-      "path": "jobs/ti/M365 Conditional Access Setup.md"
-    },
-    {
-      "basename": "M365 Billing Setup",
-      "path": "jobs/ti/M365 Billing Setup.md"
     },
     {
       "basename": "Tmux",
@@ -187,18 +199,6 @@
     {
       "basename": "Mail. Registros DNS",
       "path": "public/now/drafts/networking/Mail. Registros DNS.md"
-    },
-    {
-      "basename": "Gestión de Redes CCNA",
-      "path": "public/now/drafts/networking/Gestión de Redes CCNA.md"
-    },
-    {
-      "basename": "Fortigate VPN",
-      "path": "public/now/drafts/networking/Fortigate VPN.md"
-    },
-    {
-      "basename": "Flujo de Trabajo Multiples Cuentas M365",
-      "path": "public/now/drafts/microsoft/Flujo de Trabajo Multiples Cuentas M365.md"
     }
   ],
   "omittedPaths": [],
