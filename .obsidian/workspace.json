@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
+                "file": "jobs/andelytica/Knowledge/1Synologi NAS Integration Microsoft 365.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Invoices n8n (Automatización)"
+              "title": "1Synologi NAS Integration Microsoft 365"
             }
           }
         ]
@@ -220,6 +220,7 @@
   "active": "0c3920745a0fc603",
   "lastOpenFiles": [
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
+    "jobs/andelytica/Knowledge/1Synologi NAS Integration Microsoft 365.md",
     "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
     "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
     "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
@@ -254,7 +255,6 @@
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-read-pdf/SKILL.md",
     "copilot/skills/copilot-web-fetch/SKILL.md",
-    "copilot/skills/copilot-web-search/SKILL.md",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",

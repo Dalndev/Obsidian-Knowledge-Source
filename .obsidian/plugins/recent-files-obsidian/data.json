@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1Synologi NAS Integration Microsoft 365",
+      "path": "jobs/andelytica/Knowledge/1Synologi NAS Integration Microsoft 365.md"
+    },
+    {
       "basename": "1Invoices n8n (Automatización)",
       "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Flujo de Trabajo Multiples Cuentas M365",
       "path": "public/now/drafts/microsoft/Flujo de Trabajo Multiples Cuentas M365.md"
-    },
-    {
-      "basename": "Multitenant Organization in M365",
-      "path": "public/now/drafts/microsoft/Multitenant Organization in M365.md"
     }
   ],
   "omittedPaths": [],
