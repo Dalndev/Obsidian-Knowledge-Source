@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f247206d1b12558",
+        "id": "e52ba03ae0fdd65d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3920745a0fc603",
+            "id": "16e5a67ea5c832fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1Invoices n8n (Automatización)"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -197,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125,
-    "collapsed": true
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +215,8 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "0c3920745a0fc603",
+  "active": "16e5a67ea5c832fc",
   "lastOpenFiles": [
-    "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
     "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
     "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
     "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
@@ -255,6 +252,7 @@
     "copilot/skills/copilot-read-pdf/SKILL.md",
     "copilot/skills/copilot-web-fetch/SKILL.md",
     "copilot/skills/copilot-web-search/SKILL.md",
+    "conflict-files-obsidian-git.md",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",
