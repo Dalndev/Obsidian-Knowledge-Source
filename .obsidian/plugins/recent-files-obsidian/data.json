@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1Invoice n8n Azure (Infraestructure)",
+      "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
+    },
+    {
+      "basename": "M365. Setup, Azure Subscription",
+      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
+    },
+    {
       "basename": "M365. Setup, Billing (Multitenant)",
       "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
     },
     {
       "basename": "M365. Setup, Conditional Access",
       "path": "jobs/ti/M365. Setup, Conditional Access.md"
-    },
-    {
-      "basename": "M365. Setup, Azure Subscription",
-      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
     },
     {
       "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
@@ -31,10 +35,6 @@
     {
       "basename": "1Invoices n8n (Automatización)",
       "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
-    },
-    {
-      "basename": "1Invoice n8n Azure (Infraestructure)",
-      "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
     },
     {
       "basename": "1Azure CLI WSL (Ubuntu)",
