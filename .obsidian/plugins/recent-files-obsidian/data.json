@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nvim",
+      "path": "main/$Cheatsheets/Nvim.md"
+    },
+    {
       "basename": "M365. Setup, Billing (Multitenant)",
       "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Tmux",
       "path": "main/$Cheatsheets/Tmux.md"
-    },
-    {
-      "basename": "Nvim",
-      "path": "main/$Cheatsheets/Nvim.md"
     },
     {
       "basename": "Git",
