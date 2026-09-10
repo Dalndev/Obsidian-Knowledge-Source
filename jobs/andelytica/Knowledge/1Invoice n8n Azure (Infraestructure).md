@@ -13,3 +13,5 @@ tags:
 
 **Requsitos**.
 - Azure CLI
+
+**Arquitectura**.
