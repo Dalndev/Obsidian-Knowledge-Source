@@ -5,12 +5,12 @@
       "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
     },
     {
-      "basename": "1Invoice n8n Azure (Infraestructure)",
-      "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
-    },
-    {
       "basename": "M365. Setup, Azure Subscription",
       "path": "jobs/ti/M365. Setup, Azure Subscription.md"
+    },
+    {
+      "basename": "1Invoice n8n Azure (Infraestructure)",
+      "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
     },
     {
       "basename": "M365. Setup, Billing (Multitenant)",
