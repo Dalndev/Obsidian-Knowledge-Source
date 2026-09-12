@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Primitives, Colors (Colores)",
+      "path": "main/$Design System/Primitives, Colors (Colores).md"
+    },
+    {
+      "basename": "Modifiers",
+      "path": "main/$Design System/Modifiers.md"
+    },
+    {
       "basename": "1Invoices n8n (Automatización)",
       "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "Laws of Software Engineering",
       "path": "main/$Software Engeenier/Laws of Software Engineering.md"
-    },
-    {
-      "basename": "Primitives, Colors (Colores)",
-      "path": "main/$Design System/Primitives, Colors (Colores).md"
     },
     {
       "basename": "Primitives, Typography (Tipografía)",
