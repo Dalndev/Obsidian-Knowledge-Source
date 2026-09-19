@@ -18,12 +18,12 @@ tags:
 ## Primitivos
 ---
 **Colors**.
-- Primario (Brand). ***Necesario identificar la identidad visual de la marca***
-- Secundario. ***Necesario identificar la identidad visual de la marca***
+- Primario (Brand). Verde, `#3C8C38` 
+- ~~Secundario. ***Necesario identificar la identidad visual de la marca***~~
 - Neutrales. Escala de Grises Neutrales
 
 **Sizes.**
-- ...
+- 
   
 **Typography**.
 - ...
