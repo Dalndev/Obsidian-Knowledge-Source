@@ -33,8 +33,8 @@ tags:
 
 **Button (Botón).**
 - State (Estado). Default, Hover, Disabled
-- Variants (Variantes). Primary, Secundary
-- Size (Tamaño). Default
+- \*Variants (Variantes). Primary, Secundary
+- \*Size (Tamaño). Default
 
 **Cards (Tarjeta).**
 - State (Estado). Default, Hover, Disabled
