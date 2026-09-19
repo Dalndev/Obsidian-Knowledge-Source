@@ -23,7 +23,7 @@ tags:
 - Neutrales. Escala de Grises Neutrales
 
 **Sizes.**
-- 
+- ...
   
 **Typography**.
 - ...
