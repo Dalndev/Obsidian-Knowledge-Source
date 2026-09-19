@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Primitives, Colors (Colores)",
-      "path": "main/$Design System/Primitives, Colors (Colores).md"
+      "basename": "Atomic Design System (Website)",
+      "path": "main/$Dalndev/Atomic Design System (Website).md"
     },
     {
-      "basename": "Modifiers",
-      "path": "main/$Design System/Modifiers.md"
+      "basename": "Primitives, Colors (Colores)",
+      "path": "main/$Design System UI/Primitives, Colors (Colores).md"
+    },
+    {
+      "basename": "Primitives, Size (Espaciado)",
+      "path": "main/$Design System UI/Primitives, Size (Espaciado).md"
+    },
+    {
+      "basename": "Modifiers, State (Estado)",
+      "path": "main/$Design System UI/Modifiers, State (Estado).md"
+    },
+    {
+      "basename": "Primitives, Typography (Tipografía)",
+      "path": "main/$Design System UI/Primitives, Typography (Tipografía).md"
     },
     {
       "basename": "1Invoices n8n (Automatización)",
@@ -117,14 +129,6 @@
       "path": "main/$Software Engeenier/Laws of Software Engineering.md"
     },
     {
-      "basename": "Primitives, Typography (Tipografía)",
-      "path": "main/$Design System/Primitives, Typography (Tipografía).md"
-    },
-    {
-      "basename": "Primitives, Size (Espaciado)",
-      "path": "main/$Design System/Primitives, Size (Espaciado).md"
-    },
-    {
       "basename": "$React",
       "path": "main/$React.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Network. Modelo OSI",
       "path": "public/now/drafts/networking/Network. Modelo OSI.md"
-    },
-    {
-      "basename": "Mail. Registros DNS",
-      "path": "public/now/drafts/networking/Mail. Registros DNS.md"
     }
   ],
   "omittedPaths": [],
