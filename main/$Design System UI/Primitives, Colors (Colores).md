@@ -1,6 +1,7 @@
 ---
 tags:
   - design-system
+  - ui
 ---
 ## Tokens (Primitives)
 
@@ -15,7 +16,7 @@ u objetivo en el sistema. Pueden ser combinados para resaltar secciones o compon
 
 **Colors (Neutral)**.
 
-> (#6D6D6D) Gray, Fuscous "Escaña de Grises"
+> (#6D6D6D) Gray, Fuscous "Escala de Grises"
 
 Permiten otorgar las siguientes propiedades al sistema.
 
