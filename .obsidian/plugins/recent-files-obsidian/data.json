@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ARs Tracker Especificación de Software",
+      "path": "main/$ARs Tracker/ARs Tracker Especificación de Software.md"
+    },
+    {
+      "basename": "ARs Tracker Entidad-Relación",
+      "path": "main/$ARs Tracker/ARs Tracker Entidad-Relación.md"
+    },
+    {
       "basename": "Atomic Design System (Website)",
       "path": "main/$Dalndev/Atomic Design System (Website).md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Primitives, Typography (Tipografía)",
       "path": "main/$Design System UI/Primitives, Typography (Tipografía).md"
-    },
-    {
-      "basename": "1Invoices n8n (Automatización)",
-      "path": "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md"
     },
     {
       "basename": "M365. Setup, Azure Subscription",
@@ -195,10 +199,6 @@
     {
       "basename": "Network. ARP (Address Resolution Protocol)",
       "path": "public/now/drafts/networking/Network. ARP (Address Resolution Protocol).md"
-    },
-    {
-      "basename": "Network. Modelo OSI",
-      "path": "public/now/drafts/networking/Network. Modelo OSI.md"
     }
   ],
   "omittedPaths": [],
