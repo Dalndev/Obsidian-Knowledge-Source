@@ -46,7 +46,7 @@ tags:
 - Sin modificadores
   
 **Slider**
-- 
+- ...
 
 ## Heros (Moleculas)
 
