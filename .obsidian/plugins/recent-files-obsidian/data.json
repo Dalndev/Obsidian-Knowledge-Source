@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi-tenant Sources",
+      "path": "main/$Multitenant M365/Multi-tenant Sources.md"
+    },
+    {
       "basename": "B2B Collaboration by Cross-tenant Access",
       "path": "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Network. Villagomez Capital Infraestructura de Red",
       "path": "public/now/drafts/others/Network. Villagomez Capital Infraestructura de Red.md"
-    },
-    {
-      "basename": "Master Class Conciencia Digital",
-      "path": "public/now/drafts/others/Master Class Conciencia Digital.md"
     }
   ],
   "omittedPaths": [],
