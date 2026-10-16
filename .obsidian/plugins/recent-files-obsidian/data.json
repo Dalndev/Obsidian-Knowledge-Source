@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "B2B Collaboration by Cross-tenant Access",
+      "path": "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
+    },
+    {
+      "basename": "Multitenant Organization in M365",
+      "path": "public/now/drafts/microsoft/tenants/Multitenant Organization in M365.md"
+    },
+    {
       "basename": "ARs Tracker Especificación de Software",
       "path": "main/$ARs Tracker/ARs Tracker Especificación de Software.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Master Class Conciencia Digital",
       "path": "public/now/drafts/others/Master Class Conciencia Digital.md"
-    },
-    {
-      "basename": "English. Basic Level",
-      "path": "public/now/drafts/others/English. Basic Level.md"
-    },
-    {
-      "basename": "Network. ARP (Address Resolution Protocol)",
-      "path": "public/now/drafts/networking/Network. ARP (Address Resolution Protocol).md"
     }
   ],
   "omittedPaths": [],
