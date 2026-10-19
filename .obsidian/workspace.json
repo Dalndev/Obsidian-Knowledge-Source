@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Multi-tenant Sources"
             }
+          },
+          {
+            "id": "a000bdeae52942ab",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-topology",
+                "title": "Topologies for cross-tenant synchronization - Microsoft Entra ID | Microsoft Learn",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Topologies for cross-tenant synchronization - Microsoft Entra ID | Microsoft Learn"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +232,10 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "cf6ae6ddff2727e5",
+  "active": "a000bdeae52942ab",
   "lastOpenFiles": [
-    "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "main/$Multitenant M365/Multi-tenant Sources.md",
+    "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "main/$Multitenant M365",
     "public/now/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "main/$ARs Tracker/ARs Tracker Especificación de Software.md",
