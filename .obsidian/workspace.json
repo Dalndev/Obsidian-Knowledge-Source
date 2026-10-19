@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/$Multitenant M365/Multi-tenant Sources.md",
+                "file": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-tenant Sources"
-            }
-          },
-          {
-            "id": "a000bdeae52942ab",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-topology",
-                "title": "Topologies for cross-tenant synchronization - Microsoft Entra ID | Microsoft Learn",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Topologies for cross-tenant synchronization - Microsoft Entra ID | Microsoft Learn"
+              "title": "Tasks. Funding v4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,8 +217,19 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "a000bdeae52942ab",
+  "active": "cf6ae6ddff2727e5",
   "lastOpenFiles": [
+    "jobs/ti/M365. Setup, Conditional Access.md",
+    "jobs/ti/M365. Setup, Billing (Multitenant).md",
+    "jobs/ti/M365. Setup, Azure Subscription.md",
+    "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
+    "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
+    "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
+    "public/now/drafts/networking/Gestión de Redes CCNA.md",
+    "public/now/drafts/networking/services/Mail. Registros DNS.md",
+    "public/now/drafts/networking/osi/Network. Modelo OSI.md",
+    "public/now/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md",
+    "public/now/drafts/networking/hardware/Fortigate VPN.md",
     "main/$Multitenant M365/Multi-tenant Sources.md",
     "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "main/$Multitenant M365",
@@ -253,21 +249,10 @@
     "main/$Dalndev",
     "main/$Design System/Modifiers.md",
     "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md",
-    "jobs/ti/M365. Setup, Azure Subscription.md",
-    "jobs/ti/M365. Setup, Conditional Access.md",
-    "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
-    "jobs/ti/M365. Setup, Billing (Multitenant).md",
     "jobs/andelytica/Knowledge/1Azure CLI WSL (Ubuntu).md",
-    "jobs/andelytica/Knowledge/1Synologi NAS Integration Microsoft 365.md",
-    "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
-    "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md",
     "jobs/ti",
-    "main/$Cheatsheets/Tmux.md",
-    "main/$Cheatsheets/Nvim.md",
     "main/$Cheatsheets/Unconfirmed 211284.crdownload",
-    "main/$Cheatsheets/Git.md",
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
-    "copilot/copilot-conversations/agent__Cambia_el_formato_markdown_definido_en_el_archivo_Nvim_al@20260825_195142.md",
     "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
