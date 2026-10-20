@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Atomic Design System (Website)",
-      "path": "main/$Dalndev/Atomic Design System (Website).md"
+      "basename": "Tasks. Funding v4",
+      "path": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md"
+    },
+    {
+      "basename": "M365. Setup, Conditional Access",
+      "path": "jobs/ti/M365. Setup, Conditional Access.md"
+    },
+    {
+      "basename": "M365. Setup, Billing (Multitenant)",
+      "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
+    },
+    {
+      "basename": "M365. Setup, Azure Subscription",
+      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
+    },
+    {
+      "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
+      "path": "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md"
+    },
+    {
+      "basename": "Invoincement. Protocol, Gestión para Ejecución de Creación de Factura",
+      "path": "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md"
+    },
+    {
+      "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
+      "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
+    },
+    {
+      "basename": "Gestión de Redes CCNA",
+      "path": "public/now/drafts/networking/Gestión de Redes CCNA.md"
+    },
+    {
+      "basename": "Mail. Registros DNS",
+      "path": "public/now/drafts/networking/services/Mail. Registros DNS.md"
+    },
+    {
+      "basename": "Network. Modelo OSI",
+      "path": "public/now/drafts/networking/osi/Network. Modelo OSI.md"
+    },
+    {
+      "basename": "Network. ARP (Address Resolution Protocol)",
+      "path": "public/now/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md"
+    },
+    {
+      "basename": "Fortigate VPN",
+      "path": "public/now/drafts/networking/hardware/Fortigate VPN.md"
+    },
+    {
+      "basename": "Multi-tenant Sources",
+      "path": "main/$Multitenant M365/Multi-tenant Sources.md"
+    },
+    {
+      "basename": "B2B Collaboration by Cross-tenant Access",
+      "path": "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
+    },
+    {
+      "basename": "Multitenant Organization in M365",
+      "path": "public/now/drafts/microsoft/tenants/Multitenant Organization in M365.md"
     },
     {
       "basename": "ARs Tracker Especificación de Software",
@@ -29,32 +85,8 @@
       "path": "main/$Design System UI/Primitives, Typography (Tipografía).md"
     },
     {
-      "basename": "M365. Setup, Azure Subscription",
-      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
-    },
-    {
       "basename": "1Invoice n8n Azure (Infraestructure)",
       "path": "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md"
-    },
-    {
-      "basename": "M365. Setup, Billing (Multitenant)",
-      "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
-    },
-    {
-      "basename": "M365. Setup, Conditional Access",
-      "path": "jobs/ti/M365. Setup, Conditional Access.md"
-    },
-    {
-      "basename": "M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365",
-      "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
-    },
-    {
-      "basename": "Invoincement. Protocol, Gestión para Ejecución de Creación de Factura",
-      "path": "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md"
-    },
-    {
-      "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
-      "path": "jobs/ti/Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital.md"
     },
     {
       "basename": "1Synologi NAS Integration Microsoft 365",
@@ -163,42 +195,6 @@
     {
       "basename": "Block Security. Canal de Denuncias",
       "path": "public/now/drafts/proyects/Block Security. Canal de Denuncias.md"
-    },
-    {
-      "basename": "Tasks Management, Best Practices on your work flow",
-      "path": "public/now/drafts/others/Tasks Management, Best Practices on your work flow.md"
-    },
-    {
-      "basename": "RedHat. Automatización con Propósito",
-      "path": "public/now/drafts/others/RedHat. Automatización con Propósito.md"
-    },
-    {
-      "basename": "RedHat. Ansible Automates",
-      "path": "public/now/drafts/others/RedHat. Ansible Automates.md"
-    },
-    {
-      "basename": "Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite",
-      "path": "public/now/drafts/others/Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite.md"
-    },
-    {
-      "basename": "Proofpoint. Email Security",
-      "path": "public/now/drafts/others/Proofpoint. Email Security.md"
-    },
-    {
-      "basename": "Network. Villagomez Capital Infraestructura de Red",
-      "path": "public/now/drafts/others/Network. Villagomez Capital Infraestructura de Red.md"
-    },
-    {
-      "basename": "Master Class Conciencia Digital",
-      "path": "public/now/drafts/others/Master Class Conciencia Digital.md"
-    },
-    {
-      "basename": "English. Basic Level",
-      "path": "public/now/drafts/others/English. Basic Level.md"
-    },
-    {
-      "basename": "Network. ARP (Address Resolution Protocol)",
-      "path": "public/now/drafts/networking/Network. ARP (Address Resolution Protocol).md"
     }
   ],
   "omittedPaths": [],

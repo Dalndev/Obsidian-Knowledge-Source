@@ -1,0 +1,10 @@
+- [What is cross-tenant synchronization?](https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-overview)
+- [Topologies for cross-tenant collaboration](https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-topology)
+- [Manage external meetings and chat with people and organizations using Microsoft identities](https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings)
+- [Plan for multitenant organizations in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/plan-multi-tenant-org-overview?view=o365-worldwide)
+- [Plan for meetings with external participants in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/plan-meetings-external-participants)
+- [Configure cross-tenant synchronization](https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-configure?pivots=same-cloud-synchronization)
+- [Manage multitenant org settings](https://learn.microsoft.com/en-us/microsoft-365/enterprise/manage-multitenant-org-settings?view=o365-worldwide)
+- [Multitenant org FAQ](https://learn.microsoft.com/en-us/microsoft-365/enterprise/multitenant-org-faq?view=o365-worldwide)
+- [Synchronize users in multitenant organizations in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/sync-users-multi-tenant-orgs?view=o365-worldwide)
+
