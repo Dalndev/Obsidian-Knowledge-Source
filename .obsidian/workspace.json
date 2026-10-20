@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3de19612cd9811a9",
+        "id": "5cf85c8093155804",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6ae6ddff2727e5",
+            "id": "e694e13c8e2c2c7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tasks. Funding v4"
+              "title": "New tab"
             }
           }
         ]
@@ -90,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -216,8 +213,9 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "cf6ae6ddff2727e5",
+  "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md",
     "jobs/ti/M365. Setup, Conditional Access.md",
     "jobs/ti/M365. Setup, Billing (Multitenant).md",
     "jobs/ti/M365. Setup, Azure Subscription.md",
@@ -238,13 +236,16 @@
     "assests/ARs Tracker Entidad-Relacion.png",
     "main/Untitled.md",
     "main/$ARs Tracker",
-    "assests/ARs Tracker Entidad-Relacion.png",
+    "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
+    "main/$Design System UI/Primitives, Typography (Tipografía).md",
+    "main/$Design System UI/Primitives, Size (Espaciado).md",
     "main/$Design System UI/Primitives, Colors (Colores).md",
+    "main/$Design System UI/Modifiers, State (Estado).md",
+    "main/$Design System UI",
     "main/$Dalndev/Atomic Design System (Website).md",
     "main/$Dalndev",
     "main/$Design System/Modifiers.md",
     "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md",
-    "jobs/andelytica/Knowledge/1Azure CLI WSL (Ubuntu).md",
     "jobs/ti",
     "main/$Cheatsheets/Unconfirmed 211284.crdownload",
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
