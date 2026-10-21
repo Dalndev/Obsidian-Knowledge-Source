@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "$M365 Procesos de Gestión",
+      "path": "main/$M365/admins centers/m365 admin center/$M365 Procesos de Gestión.md"
+    },
+    {
       "basename": "$M365 Admin Center",
-      "path": "main/$M365/$M365 Admin Center.md"
+      "path": "main/$M365/admins centers/m365 admin center/$M365 Admin Center.md"
+    },
+    {
+      "basename": "$M365 Portal Azure",
+      "path": "main/$M365/admins centers/$M365 Portal Azure.md"
+    },
+    {
+      "basename": "$M365 SharePoint",
+      "path": "main/$M365/admins centers/$M365 SharePoint.md"
+    },
+    {
+      "basename": "$M365 Teams Admin Center",
+      "path": "main/$M365/admins centers/$M365 Teams Admin Center.md"
+    },
+    {
+      "basename": "$M365 Entra ID",
+      "path": "main/$M365/admins centers/$M365 Entra ID.md"
+    },
+    {
+      "basename": "$M365 Exchange Online",
+      "path": "main/$M365/admins centers/$M365 Exchange Online.md"
     },
     {
       "basename": "$Multi-tenant Sources",
@@ -175,30 +199,6 @@
     {
       "basename": "$Considereaciones React Native, Expo",
       "path": "main/$Considereaciones React Native, Expo.md"
-    },
-    {
-      "basename": "Most used React hooks",
-      "path": "public/now/drafts/develop/react/Most used React hooks.md"
-    },
-    {
-      "basename": "$Patrones de Arquitectura de Software",
-      "path": "main/$Patrones de Arquitectura de Software.md"
-    },
-    {
-      "basename": "$React, Clean Architecture",
-      "path": "main/$React, Clean Architecture.md"
-    },
-    {
-      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
-      "path": "main/$Hexagonal Architecture, DDD (Domain Driven Development).md"
-    },
-    {
-      "basename": "Block Security. Convenciones",
-      "path": "public/now/drafts/proyects/Block Security. Convenciones.md"
-    },
-    {
-      "basename": "Block Security. Canal de Denuncias",
-      "path": "public/now/drafts/proyects/Block Security. Canal de Denuncias.md"
     }
   ],
   "omittedPaths": [],

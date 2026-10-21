@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/$M365/$M365 Admin Center.md",
+                "file": "main/$M365/admins centers/m365 admin center/$M365 Procesos de Gestión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$M365 Admin Center"
+              "title": "$M365 Procesos de Gestión"
             }
           }
         ]
@@ -216,105 +216,16 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "floating": {
-    "id": "fc060279bbbfd958",
-    "type": "floating",
-    "children": [
-      {
-        "id": "37479e72dbe117b6",
-        "type": "window",
-        "children": [
-          {
-            "id": "c0d8b254d95acb28",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2d0072a0a338a2e6",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings",
-                    "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn"
-                }
-              },
-              {
-                "id": "18bec78a74392e31",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-overview",
-                    "title": "What is cross-tenant synchronization in Microsoft Entra ID? - Microsoft Entra ID | Microsoft Learn",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "What is cross-tenant synchronization in Microsoft Entra ID? - Microsoft Entra ID | Microsoft Learn"
-                }
-              },
-              {
-                "id": "0c3a0b2a16fc693b",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/sync-users-multi-tenant-orgs?view=o365-worldwide",
-                    "title": "Synchronize users in multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Synchronize users in multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn"
-                }
-              },
-              {
-                "id": "1f4e2dc096ce7fba",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings",
-                    "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn"
-                }
-              },
-              {
-                "id": "489cc0fd1e2ea194",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/plan-multi-tenant-org-overview?view=o365-worldwide",
-                    "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn"
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 0,
-        "width": 1371,
-        "height": 1105,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
-    "main/$M365/$M365 Admin Center.md",
+    "main/$M365/admins centers/m365 admin center/$M365 Admin Center.md",
+    "main/$M365/admins centers/m365 admin center/$M365 Procesos de Gestión.md",
+    "main/$M365/admins centers/m365 admin center",
+    "main/$M365/admins centers/$M365 Portal Azure.md",
+    "main/$M365/admins centers/$M365 SharePoint.md",
+    "main/$M365/admins centers/$M365 Teams Admin Center.md",
+    "main/$M365/admins centers/$M365 Entra ID.md",
+    "main/$M365/admins centers/$M365 Exchange Online.md",
     "main/$M365/admins centers",
     "main/$M365/$Multi-tenant Sources.md",
     "assests/Pasted image 20261020143016.png",
@@ -339,18 +250,12 @@
     "main/Untitled.md",
     "main/$ARs Tracker",
     "jobs/andelytica/Knowledge/1Invoices n8n (Automatización).md",
-    "main/$Design System UI/Primitives, Typography (Tipografía).md",
-    "main/$Design System UI/Primitives, Size (Espaciado).md",
-    "main/$Design System UI/Primitives, Colors (Colores).md",
-    "main/$Design System UI/Modifiers, State (Estado).md",
     "main/$Design System UI",
-    "main/$Dalndev/Atomic Design System (Website).md",
     "main/$Dalndev",
     "jobs/ti",
     "main/$Cheatsheets/Unconfirmed 211284.crdownload",
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
     "copilot/copilot-conversations",
-    "copilot/skills/obsidian-cli/LICENSE",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",

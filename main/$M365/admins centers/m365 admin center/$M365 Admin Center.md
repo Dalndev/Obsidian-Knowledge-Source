@@ -1,17 +1,22 @@
+---
+tags:
+  - m365
+date: 2026-10-21
+---
 La información presentada a continuación, tiene como propósito generar una idea básica para la administración eficiente de la plataforma de **Microsoft 365 admin center**. No obstante cualquier tópico que requiera conocimiento avanzado, es recomendable revisar en la documentación oficial.
 
 ---
 
 **M365 Admin Center** es una plataforma centralizada para la **gestion y administración** de los recursos de una organización basada en servicio de la nube, en donde podemos entender como recursos a *usuarios, servicios, aplicaciones, documentos, licencias, dispositivos etc*.
 
-La plataforma permite la administración general del servicio **Business** que ofrece Microsoft para negocios o empresas, por lo que provee una experiencia de administración unificada, con el objetivo de ofrecer sencillez en la administración y responsabilidades IT mas comunes, como la **administración de usuarios, grupos y grupos**, **administración de suscripciones y facturación**, **administración de credenciales de acceso en usuarios**, **licencias**, etc.
+La plataforma permite la administración general del servicio **Business** que ofrece Microsoft para negocios o empresas, por lo que provee una experiencia de administración unificada, con el objetivo de ofrecer sencillez en la administración y responsabilidades IT mas comunes, como la administración de **usuarios**, **grupos**, **administración de suscripciones y facturación**, **administración de credenciales de acceso en usuarios**, **licencias**, **dominios**, **reportes**, **solicitudes de soporte**, **estados de los servicios** etc.
+
+>No contiene todas las configuraciones avanzadas. Funciona como punto de entrada hacia los centros administrativos especializados.
 
 ## Conceptos Claves
 ---
 
-**M365 Admin Center**
-
-<https://learn.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide> 
+[**M365 Admin Center**](https://learn.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide)
 
 Plataforma de administración que permite la gestion y supervisión de los **servicios basados en la nube **de Microsoft 365, herramientas y aplicaciones como *Word, Excel, PowerPoint, Teams, One Drive*, etc. 
 
