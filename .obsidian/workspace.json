@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -196,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125,
-    "collapsed": true
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,7 +292,7 @@
                   "state": {
                     "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/plan-multi-tenant-org-overview?view=o365-worldwide",
                     "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn",
-                    "mode": "blank"
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
                   "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn"
@@ -312,11 +312,11 @@
       }
     ]
   },
-  "active": "8564262d29f4dca4",
+  "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "main/$M365/$M365 Admin Center.md",
     "main/$M365/admins centers",
     "main/$M365/$Multi-tenant Sources.md",
-    "main/$M365/$M365 Admin Center.md",
     "assests/Pasted image 20261020143016.png",
     "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md",
     "jobs/ti/M365. Setup, Conditional Access.md",
@@ -351,7 +351,6 @@
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
     "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",
