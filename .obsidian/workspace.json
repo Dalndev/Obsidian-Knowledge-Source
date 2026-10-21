@@ -11,10 +11,14 @@
             "id": "e694e13c8e2c2c7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "main/$M365/$M365 Admin Center.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "$M365 Admin Center"
             }
           }
         ]
@@ -86,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -213,8 +216,108 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e694e13c8e2c2c7e",
+  "floating": {
+    "id": "fc060279bbbfd958",
+    "type": "floating",
+    "children": [
+      {
+        "id": "37479e72dbe117b6",
+        "type": "window",
+        "children": [
+          {
+            "id": "c0d8b254d95acb28",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d0072a0a338a2e6",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings",
+                    "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn"
+                }
+              },
+              {
+                "id": "18bec78a74392e31",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://learn.microsoft.com/en-us/entra/identity/multi-tenant-organizations/cross-tenant-synchronization-overview",
+                    "title": "What is cross-tenant synchronization in Microsoft Entra ID? - Microsoft Entra ID | Microsoft Learn",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "What is cross-tenant synchronization in Microsoft Entra ID? - Microsoft Entra ID | Microsoft Learn"
+                }
+              },
+              {
+                "id": "0c3a0b2a16fc693b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/sync-users-multi-tenant-orgs?view=o365-worldwide",
+                    "title": "Synchronize users in multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Synchronize users in multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn"
+                }
+              },
+              {
+                "id": "1f4e2dc096ce7fba",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat?tabs=organization-settings",
+                    "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "IT Admins - Manage external meetings and chat with people and organizations using Microsoft identities - Microsoft Teams | Microsoft Learn"
+                }
+              },
+              {
+                "id": "489cc0fd1e2ea194",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/plan-multi-tenant-org-overview?view=o365-worldwide",
+                    "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "Plan for multitenant organizations in Microsoft 365 - Microsoft 365 Enterprise | Microsoft Learn"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 0,
+        "width": 1371,
+        "height": 1105,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8564262d29f4dca4",
   "lastOpenFiles": [
+    "main/$M365/admins centers",
+    "main/$M365/$Multi-tenant Sources.md",
+    "main/$M365/$M365 Admin Center.md",
+    "assests/Pasted image 20261020143016.png",
     "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md",
     "jobs/ti/M365. Setup, Conditional Access.md",
     "jobs/ti/M365. Setup, Billing (Multitenant).md",
@@ -227,9 +330,8 @@
     "public/now/drafts/networking/osi/Network. Modelo OSI.md",
     "public/now/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md",
     "public/now/drafts/networking/hardware/Fortigate VPN.md",
-    "main/$Multitenant M365/Multi-tenant Sources.md",
     "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
-    "main/$Multitenant M365",
+    "main/$M365",
     "public/now/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "main/$ARs Tracker/ARs Tracker Especificación de Software.md",
     "main/$ARs Tracker/ARs Tracker Entidad-Relación.md",
@@ -244,8 +346,6 @@
     "main/$Design System UI",
     "main/$Dalndev/Atomic Design System (Website).md",
     "main/$Dalndev",
-    "main/$Design System/Modifiers.md",
-    "jobs/andelytica/Knowledge/1Invoice n8n Azure (Infraestructure).md",
     "jobs/ti",
     "main/$Cheatsheets/Unconfirmed 211284.crdownload",
     "main/$Cheatsheets/Nvim.md.tmp.10018.2aeae9562445",
@@ -261,7 +361,6 @@
     "assests/Pasted image 20250923113726.png",
     "assests/Pasted image 20250923113024.png",
     "assests/Pasted image 20250923112659.png",
-    "assests/Pasted image 20250923112516.png",
     "canvas/Sin título.canvas"
   ]
 }

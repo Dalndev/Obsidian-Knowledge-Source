@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "$M365 Admin Center",
+      "path": "main/$M365/$M365 Admin Center.md"
+    },
+    {
+      "basename": "$Multi-tenant Sources",
+      "path": "main/$M365/$Multi-tenant Sources.md"
+    },
+    {
       "basename": "Tasks. Funding v4",
       "path": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Fortigate VPN",
       "path": "public/now/drafts/networking/hardware/Fortigate VPN.md"
-    },
-    {
-      "basename": "Multi-tenant Sources",
-      "path": "main/$Multitenant M365/Multi-tenant Sources.md"
     },
     {
       "basename": "B2B Collaboration by Cross-tenant Access",
