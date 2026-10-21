@@ -3,6 +3,8 @@ tags:
   - m365
 date: 2026-10-21
 ---
+**Microsoft 365 Admin Center.**
+
 La información presentada a continuación, tiene como propósito generar una idea básica para la administración eficiente de la plataforma de **Microsoft 365 admin center**. No obstante cualquier tópico que requiera conocimiento avanzado, es recomendable revisar en la documentación oficial.
 
 ---
@@ -13,6 +15,7 @@ La plataforma permite la administración general del servicio **Business** que o
 
 >No contiene todas las configuraciones avanzadas. Funciona como punto de entrada hacia los centros administrativos especializados.
 
+> Toda nueva organización incluye un dominio inicial asociado a `*.onmicrosoft.com` el cual también es utilizado como un **fallback domain**.
 ## Conceptos Claves
 ---
 
@@ -93,4 +96,4 @@ Cabe mencionar que cada licencia individual es netamente para un usuario especif
 
 ---
 
-[M365 Admin Center](https://www.dev4side.com/en/blog/microsoft-365-admin-center)
+[M365 Admin Center | Microsoft Learn](https://www.dev4side.com/en/blog/microsoft-365-admin-center)

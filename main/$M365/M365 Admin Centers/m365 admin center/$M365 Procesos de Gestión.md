@@ -1,14 +1,12 @@
 ---
 tags:
   - m365
-version: "1.0"
+  - microsoft
 date: 2026-10-21
-targets: Microsoft 365 Administrators
 ---
 ## Modelo administrativo
 
 Un tenant constituye una frontera independiente de:
-
 - Identidades (Usuarios).
 - Dominios.
 - Licencias y suscripciones.
@@ -18,7 +16,6 @@ Un tenant constituye una frontera independiente de:
 - Roles administrativos.
 
 Microsoft 365 Admin Center modifica configuraciones del tenant seleccionado. En organizaciones con varios tenants, el administrador debe confirmar permanentemente:
-
 1. El nombre del tenant.
 2. La cuenta administrativa utilizada.
 3. El dominio principal.
@@ -54,7 +51,7 @@ Microsoft 365 Admin Center modifica configuraciones del tenant seleccionado. En 
 > La interfaz puede cambiar. Cuando una opción no esté visible, se recomienda utilizar **Mostrar todo** o el buscador del portal.
 
 ## Administración de usuarios
-
+---
 ### Alta de usuario
 
 **Ruta habitual**.
@@ -85,7 +82,6 @@ Modificar en el destino una propiedad controlada por sincronización puede produ
 ### Baja de usuario
 
 La baja debe tratarse como un proceso controlado:
-
 1. Bloquear el inicio de sesión.
 2. Revocar sesiones y tokens.
 3. Restablecer la contraseña si existe riesgo de acceso.
@@ -101,10 +97,8 @@ La baja debe tratarse como un proceso controlado:
 **Una cuenta eliminada permanece recuperable aproximadamente 30 días.** La eliminación permanente no se puede revertir. Si el usuario se origina en Active Directory local, la baja debe realizarse desde la fuente autorizada. Véase [Proceso de eliminación de exempleados](https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee-step-7).
 
 > Eliminar una licencia, eliminar una cuenta y eliminar los datos no son operaciones equivalentes. La retención debe definirse antes de retirar licencias o borrar identidades.
-
----
-
 ## Administración de licencias
+---
 
 Las licencias pueden asignarse:
 - Directamente a un usuario.
@@ -125,8 +119,6 @@ Controles recomendados:
 - No retirar una licencia sin evaluar su impacto sobre Exchange, OneDrive, Teams, archivo y retención.
 
 El portal muestra si la asignación fue directa o mediante grupo y permite revisar errores de procesamiento. Véase [Asignar o retirar licencias](https://learn.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide).
-
----
 
 ## Administración de grupos
 
@@ -151,17 +143,13 @@ Todo grupo operativo debería contar con:
 - Reglas definidas para invitados.
 
 Microsoft documenta las diferencias en [Comparación de tipos de grupos](https://learn.microsoft.com/en-us/microsoft-365/admin/create-groups/compare-groups?view=o365-worldwide).
-
+## Dominios y DNS
 ---
 
-## Dominios y DNS
-
 **Ruta**.
-
 `Configuración → Dominios`
 
 El proceso general para incorporar un dominio es.
-
 1. Agregar el dominio en Microsoft 365.
 2. Verificar la propiedad mediante un registro TXT.
 3. Crear los usuarios y buzones necesarios.
@@ -171,7 +159,6 @@ El proceso general para incorporar un dominio es.
     
 
 **Registros comunes**.
-
 - **TXT:** verificación del dominio y SPF.
 - **MX:** recepción de correo.
 - **CNAME:** autodiscover y otros servicios.
@@ -179,11 +166,8 @@ El proceso general para incorporar un dominio es.
 - **DMARC:** política y reporte de autenticación de correo.
 
 La modificación del registro MX puede interrumpir la recepción de correo. Antes del cambio deben existir los usuarios, buzones, dominios aceptados y mecanismos de autenticación correspondientes. Véase [Agregar un dominio personalizado](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/add-domain/).
-
----
-
 ## Estado del servicio y gestión de cambios
-
+---
 ### Estado del servicio
 
 **Ruta**.
@@ -208,6 +192,7 @@ Debe utilizarse para consultar:
 
 Referencia: [Comprobar el estado de los servicios](https://learn.microsoft.com/en-us/microsoft-365/enterprise/view-service-health?view=o365-worldwide).
 ### Centro de mensajes
+---
 
 **Ruta**.
 `Estado → Centro de mensajes`
@@ -228,7 +213,7 @@ Los mensajes deberían revisarse al menos semanalmente y clasificarse como:
 - Requiere cambio técnico.
 - Requiere aprobación de seguridad o cumplimiento.
 ## Reportes, auditoría y soporte
-
+---
 ### Reportes
 
 Los reportes de uso permiten revisar adopción y actividad de servicios como Exchange, Teams, SharePoint, OneDrive y aplicaciones de Microsoft 365.
@@ -251,7 +236,8 @@ Antes de abrir un caso con Microsoft:
 5. Documentar pruebas realizadas.
 6. Determinar si el problema es general o individual.
 7. Crear la solicitud desde **Soporte → Nueva solicitud de servicio**.
-## 13. Frecuencia operativa recomendada
+## Frecuencia operativa recomendada
+---
 
 | Frecuencia | Actividades                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------ |
@@ -264,7 +250,6 @@ Antes de abrir un caso con Microsoft:
 ## Control de cambios
 
 Todo cambio administrativo relevante debe registrar:
-
 - Número de solicitud.
 - Tenant afectado.
 - Objetivo.
