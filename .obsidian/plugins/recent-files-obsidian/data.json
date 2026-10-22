@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "$Angular Review Index",
-      "path": "jobs/sofka/angular/$Angular Review Index.md"
+      "basename": "Application Registration",
+      "path": "main/$M365/M365 Admin Centers/entra id/Application Registration.md"
     },
     {
-      "basename": "Atomic Design System (Website)",
-      "path": "main/$Dalndev/Atomic Design System (Website).md"
+      "basename": "Entra ID",
+      "path": "main/$M365/M365 Admin Centers/entra id/Entra ID.md"
+    },
+    {
+      "basename": "Authentication Methods",
+      "path": "main/$M365/M365 Admin Centers/entra id/Authentication Methods.md"
+    },
+    {
+      "basename": "Multi-Factor Authentication",
+      "path": "main/$M365/M365 Admin Centers/entra id/Multi-Factor Authentication.md"
+    },
+    {
+      "basename": "Conditional Access",
+      "path": "main/$M365/M365 Admin Centers/entra id/Conditional Access.md"
+    },
+    {
+      "basename": "External Identities",
+      "path": "main/$M365/M365 Admin Centers/entra id/External Identities.md"
+    },
+    {
+      "basename": "Enterprise Apps",
+      "path": "main/$M365/M365 Admin Centers/entra id/Enterprise Apps.md"
+    },
+    {
+      "basename": "Users",
+      "path": "main/$M365/M365 Admin Centers/entra id/Users.md"
+    },
+    {
+      "basename": "Groups",
+      "path": "main/$M365/M365 Admin Centers/entra id/Groups.md"
+    },
+    {
+      "basename": "M365 Admin Center",
+      "path": "main/$M365/M365 Admin Centers/m365 admin center/M365 Admin Center.md"
+    },
+    {
+      "basename": "$M365 Procesos de Gestión",
+      "path": "main/$M365/M365 Admin Centers/m365 admin center/$M365 Procesos de Gestión.md"
+    },
+    {
+      "basename": "$M365 Portal Azure",
+      "path": "main/$M365/M365 Admin Centers/azure/$M365 Portal Azure.md"
+    },
+    {
+      "basename": "$M365 SharePoint",
+      "path": "main/$M365/M365 Admin Centers/sharepoint/$M365 SharePoint.md"
+    },
+    {
+      "basename": "$M365 Teams Admin Center",
+      "path": "main/$M365/M365 Admin Centers/microsoft teams/$M365 Teams Admin Center.md"
+    },
+    {
+      "basename": "$M365 Exchange Online",
+      "path": "main/$M365/M365 Admin Centers/exchange/$M365 Exchange Online.md"
+    },
+    {
+      "basename": "$Multi-tenant Sources",
+      "path": "main/$M365/$Multi-tenant Sources.md"
     },
     {
       "basename": "Tasks. Funding v4",
@@ -55,10 +111,6 @@
     {
       "basename": "Fortigate VPN",
       "path": "public/now/drafts/networking/hardware/Fortigate VPN.md"
-    },
-    {
-      "basename": "Multi-tenant Sources",
-      "path": "main/$Multitenant M365/Multi-tenant Sources.md"
     },
     {
       "basename": "B2B Collaboration by Cross-tenant Access",
@@ -147,58 +199,6 @@
     {
       "basename": "250528-Excalidraw-SmartCase.excalidraw",
       "path": "canvas/250528-Excalidraw-SmartCase.excalidraw.md"
-    },
-    {
-      "basename": "250526-Excalidraw-Khumox.excalidraw",
-      "path": "canvas/250526-Excalidraw-Khumox.excalidraw.md"
-    },
-    {
-      "basename": "$20260102-Excalidraw-SmartCase-MVP.excalidraw",
-      "path": "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md"
-    },
-    {
-      "basename": "Dependency Rule on Clean Architecture",
-      "path": "main/$Clean Architecture/Dependency Rule on Clean Architecture.md"
-    },
-    {
-      "basename": "Introduction to Clean Architecture",
-      "path": "main/$Clean Architecture/Introduction to Clean Architecture.md"
-    },
-    {
-      "basename": "Advantages, Cost & Implementation of Clean Architecture",
-      "path": "main/$Clean Architecture/Advantages, Cost & Implementation of Clean Architecture.md"
-    },
-    {
-      "basename": "Laws of Software Engineering",
-      "path": "main/$Software Engeenier/Laws of Software Engineering.md"
-    },
-    {
-      "basename": "$React",
-      "path": "main/$React.md"
-    },
-    {
-      "basename": "$Considereaciones React Native, Expo",
-      "path": "main/$Considereaciones React Native, Expo.md"
-    },
-    {
-      "basename": "Most used React hooks",
-      "path": "public/now/drafts/develop/react/Most used React hooks.md"
-    },
-    {
-      "basename": "$Patrones de Arquitectura de Software",
-      "path": "main/$Patrones de Arquitectura de Software.md"
-    },
-    {
-      "basename": "$React, Clean Architecture",
-      "path": "main/$React, Clean Architecture.md"
-    },
-    {
-      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
-      "path": "main/$Hexagonal Architecture, DDD (Domain Driven Development).md"
-    },
-    {
-      "basename": "Block Security. Convenciones",
-      "path": "public/now/drafts/proyects/Block Security. Convenciones.md"
     }
   ],
   "omittedPaths": [],
