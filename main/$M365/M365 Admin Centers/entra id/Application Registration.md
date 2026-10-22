@@ -1,8 +1,8 @@
-> Application Registration es el punto de entrada para las aplicaciones que usan la plataforma para la autenticación.
+> Application Registration es el punto de entrada para las aplicaciones que usan la plataforma para la autenticación mediante Microsoft.
 
-Application Registration es el proceso de definir una aplicación en la organización para acceder a los recursos de identidad creados y almacenados en la organización. 
+*Application Registration es el proceso de definir la identidad de una aplicación en la organización para acceder a los recursos de identidad de los usuarios asociados en el tenant.* 
 
-El proceso de registro establece una **relación unidireccional de confianza** entre la aplicación y el proveedor de identidad de Microsoft para poder acceder a las siguientes caracteristicas.
+El proceso de registro establece una **relación unidireccional de confianza** entre la aplicación y el proveedor de identidad de Microsoft para poder acceder a las siguientes características.
 - Realizar una autenticación/autorización segura por parte de los usuarios en el sistema.
 - Acceder a servicios APIs o Microsoft Graph por parte del sistema.
 - Exponer una API propia del sistema, en los sistema de Microsoft.

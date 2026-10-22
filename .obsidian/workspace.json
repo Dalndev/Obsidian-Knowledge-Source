@@ -21,8 +21,7 @@
               "title": "Application Registration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125
+    "width": 454.3828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +219,9 @@
   },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "jobs/sofka/angular/$Angular Review Index.md",
+    "jobs/sofka/angular",
+    "jobs/sofka",
     "main/$M365/M365 Admin Centers/entra id/Entra ID.md",
     "main/$M365/M365 Admin Centers/entra id/Authentication Methods.md",
     "main/$M365/M365 Admin Centers/entra id/Multi-Factor Authentication.md",
@@ -253,11 +256,8 @@
     "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
     "public/now/drafts/networking/Gestión de Redes CCNA.md",
     "public/now/drafts/networking/services/Mail. Registros DNS.md",
-    "public/now/drafts/networking/osi/Network. Modelo OSI.md",
     "main/$M365",
     "assests/ARs Tracker Entidad-Relacion.png",
-    "main/$ARs Tracker",
-    "main/$Design System UI",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",
     "assests/Pasted image 20250923115345.png",
