@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "$Angular Review Index",
+      "path": "jobs/sofka/angular/$Angular Review Index.md"
+    },
+    {
+      "basename": "Atomic Design System (Website)",
+      "path": "main/$Dalndev/Atomic Design System (Website).md"
+    },
+    {
       "basename": "Tasks. Funding v4",
       "path": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Block Security. Convenciones",
       "path": "public/now/drafts/proyects/Block Security. Convenciones.md"
-    },
-    {
-      "basename": "Block Security. Canal de Denuncias",
-      "path": "public/now/drafts/proyects/Block Security. Canal de Denuncias.md"
     }
   ],
   "omittedPaths": [],
