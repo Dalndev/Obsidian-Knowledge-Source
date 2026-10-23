@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/$M365/M365 Admin Centers/entra id/Application Registration.md",
+                "file": "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Registration"
+              "title": "Migración WhatsApp a M365 Teams"
             }
           }
         ]
@@ -218,6 +218,9 @@
   },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "main/$M365/M365 Admin Centers/entra id/Application Registration.md",
+    "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md",
+    "jobs/andelytica/tasks",
     "jobs/sofka/angular/$Angular Review Index.md",
     "jobs/sofka/angular",
     "jobs/sofka",
@@ -226,7 +229,6 @@
     "main/$M365/M365 Admin Centers/entra id/Multi-Factor Authentication.md",
     "main/$M365/M365 Admin Centers/entra id/Conditional Access.md",
     "main/$M365/M365 Admin Centers/entra id/External Identities.md",
-    "main/$M365/M365 Admin Centers/entra id/Application Registration.md",
     "main/$M365/M365 Admin Centers/entra id/Enterprise Apps.md",
     "main/$M365/M365 Admin Centers/entra id/Users.md",
     "main/$M365/M365 Admin Centers/entra id/Groups.md",
@@ -254,8 +256,6 @@
     "jobs/ti/Invoincement. Protocol, Gestión para Ejecución de Creación de Factura.md",
     "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md",
     "public/now/drafts/networking/Gestión de Redes CCNA.md",
-    "public/now/drafts/networking/services/Mail. Registros DNS.md",
-    "main/$M365",
     "assests/ARs Tracker Entidad-Relacion.png",
     "assests/Pasted image 20260526201831.png",
     "canvas/Untitled.canvas",

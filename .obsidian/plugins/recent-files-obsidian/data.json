@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Migración WhatsApp a M365 Teams",
+      "path": "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md"
+    },
+    {
       "basename": "Application Registration",
       "path": "main/$M365/M365 Admin Centers/entra id/Application Registration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "250627-Excalidraw-InfraestructuraRed.excalidraw",
       "path": "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md"
-    },
-    {
-      "basename": "250528-Excalidraw-SmartCase.excalidraw",
-      "path": "canvas/250528-Excalidraw-SmartCase.excalidraw.md"
     }
   ],
   "omittedPaths": [],
