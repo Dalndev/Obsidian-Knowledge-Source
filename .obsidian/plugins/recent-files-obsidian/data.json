@@ -9,80 +9,148 @@
       "path": "main/$M365/M365 Admin Centers/entra id/Application Registration.md"
     },
     {
-      "basename": "Entra ID",
-      "path": "main/$M365/M365 Admin Centers/entra id/Entra ID.md"
+      "basename": "250627-Excalidraw-InfraestructuraRed.excalidraw",
+      "path": "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md"
     },
     {
-      "basename": "Authentication Methods",
-      "path": "main/$M365/M365 Admin Centers/entra id/Authentication Methods.md"
+      "basename": "250528-Excalidraw-SmartCase.excalidraw",
+      "path": "canvas/250528-Excalidraw-SmartCase.excalidraw.md"
     },
     {
-      "basename": "Multi-Factor Authentication",
-      "path": "main/$M365/M365 Admin Centers/entra id/Multi-Factor Authentication.md"
+      "basename": "250526-Excalidraw-Khumox.excalidraw",
+      "path": "canvas/250526-Excalidraw-Khumox.excalidraw.md"
     },
     {
-      "basename": "Conditional Access",
-      "path": "main/$M365/M365 Admin Centers/entra id/Conditional Access.md"
+      "basename": "$20260102-Excalidraw-SmartCase-MVP.excalidraw",
+      "path": "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md"
     },
     {
-      "basename": "External Identities",
-      "path": "main/$M365/M365 Admin Centers/entra id/External Identities.md"
+      "basename": "Reactor Github",
+      "path": "src/utils/@ReactorGithub/Reactor Github.md"
     },
     {
-      "basename": "Enterprise Apps",
-      "path": "main/$M365/M365 Admin Centers/entra id/Enterprise Apps.md"
+      "basename": "React",
+      "path": "src/utils/@React/React.md"
     },
     {
-      "basename": "Users",
-      "path": "main/$M365/M365 Admin Centers/entra id/Users.md"
+      "basename": "Prompt Engineering",
+      "path": "src/utils/@IA/Prompt Engineering.md"
     },
     {
-      "basename": "Groups",
-      "path": "main/$M365/M365 Admin Centers/entra id/Groups.md"
+      "basename": "Google Photos API",
+      "path": "src/utils/@GoogleCLI/Google Photos API.md"
     },
     {
-      "basename": "M365 Admin Center",
-      "path": "main/$M365/M365 Admin Centers/m365 admin center/M365 Admin Center.md"
+      "basename": "Google OAuth2",
+      "path": "src/utils/@GoogleCLI/Google OAuth2.md"
     },
     {
-      "basename": "$M365 Procesos de Gestión",
-      "path": "main/$M365/M365 Admin Centers/m365 admin center/$M365 Procesos de Gestión.md"
+      "basename": "Patrones de Diseño",
+      "path": "src/utils/@DesignsPatterns/Patrones de Diseño.md"
     },
     {
-      "basename": "$M365 Portal Azure",
-      "path": "main/$M365/M365 Admin Centers/azure/$M365 Portal Azure.md"
+      "basename": "Clean Architecture",
+      "path": "src/utils/@DesignsPatterns/Clean Architecture.md"
     },
     {
-      "basename": "$M365 SharePoint",
-      "path": "main/$M365/M365 Admin Centers/sharepoint/$M365 SharePoint.md"
+      "basename": "Velas Japonesas",
+      "path": "src/core/@Traiding/Velas Japonesas.md"
     },
     {
-      "basename": "$M365 Teams Admin Center",
-      "path": "main/$M365/M365 Admin Centers/microsoft teams/$M365 Teams Admin Center.md"
+      "basename": "Organización de Directorios",
+      "path": "public/drafts/systems/Organización de Directorios.md"
     },
     {
-      "basename": "$M365 Exchange Online",
-      "path": "main/$M365/M365 Admin Centers/exchange/$M365 Exchange Online.md"
+      "basename": "Gestión de Documentos (SGDD)",
+      "path": "public/drafts/systems/Gestión de Documentos (SGDD).md"
     },
     {
-      "basename": "$Multi-tenant Sources",
-      "path": "main/$M365/$Multi-tenant Sources.md"
+      "basename": "Gestión de Redes CCNA",
+      "path": "public/drafts/networking/networks/Gestión de Redes CCNA.md"
+    },
+    {
+      "basename": "Mail. Registros DNS",
+      "path": "public/drafts/networking/services/Mail. Registros DNS.md"
+    },
+    {
+      "basename": "Network. Modelo OSI",
+      "path": "public/drafts/networking/osi/Network. Modelo OSI.md"
+    },
+    {
+      "basename": "Network. ARP (Address Resolution Protocol)",
+      "path": "public/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md"
+    },
+    {
+      "basename": "Fortigate VPN",
+      "path": "public/drafts/networking/hardware/Fortigate VPN.md"
+    },
+    {
+      "basename": "Flujo de Trabajo Multiples Cuentas M365",
+      "path": "public/drafts/microsoft/Flujo de Trabajo Multiples Cuentas M365.md"
+    },
+    {
+      "basename": "Multitenant Organization in M365",
+      "path": "public/drafts/microsoft/tenants/Multitenant Organization in M365.md"
+    },
+    {
+      "basename": "B2B Collaboration by Cross-tenant Access",
+      "path": "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
+    },
+    {
+      "basename": "Azure Change (Events) Notifications",
+      "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
+    },
+    {
+      "basename": "M365 Change Notifications",
+      "path": "public/drafts/microsoft/azure/M365 Change Notifications.md"
+    },
+    {
+      "basename": "Microsoft Exchange (EAC)",
+      "path": "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md"
+    },
+    {
+      "basename": "Microsoft Entra ID",
+      "path": "public/drafts/microsoft/admins/Microsoft Entra ID.md"
+    },
+    {
+      "basename": "Microsoft 365 Admin Center (MAC)",
+      "path": "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md"
+    },
+    {
+      "basename": "M365 EntraID, Authentication & IDProvider",
+      "path": "public/drafts/microsoft/admins/M365 EntraID, Authentication & IDProvider.md"
+    },
+    {
+      "basename": "Tasks Management, Best Practices on your work flow",
+      "path": "main/$Knowledge Management/Tasks Management, Best Practices on your work flow.md"
+    },
+    {
+      "basename": "Network. Villagomez Capital Infraestructura de Red",
+      "path": "jobs/andelytica/Knowledge/Infrastructure/Networking/Network. Villagomez Capital Infraestructura de Red.md"
+    },
+    {
+      "basename": "Estrategias MDM (Mobile Device Management)",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Intune/Estrategias MDM (Mobile Device Management).md"
+    },
+    {
+      "basename": "$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos",
+      "path": "jobs/andelytica/Projects/Quipus/Meets/$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos.md"
+    },
+    {
+      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
+      "path": "main/$System Design/$Hexagonal Architecture, DDD (Domain Driven Development).md"
+    },
+    {
+      "basename": "Synology NAS Integration M365",
+      "path": "jobs/andelytica/Knowledge/Infrastructure/NAS/Synology NAS Integration M365.md"
+    },
+    {
+      "basename": "$Considereaciones React Native, Expo",
+      "path": "main/$React/$Considereaciones React Native, Expo.md"
     },
     {
       "basename": "Tasks. Funding v4",
       "path": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md"
-    },
-    {
-      "basename": "M365. Setup, Conditional Access",
-      "path": "jobs/ti/M365. Setup, Conditional Access.md"
-    },
-    {
-      "basename": "M365. Setup, Billing (Multitenant)",
-      "path": "jobs/ti/M365. Setup, Billing (Multitenant).md"
-    },
-    {
-      "basename": "M365. Setup, Azure Subscription",
-      "path": "jobs/ti/M365. Setup, Azure Subscription.md"
     },
     {
       "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
@@ -97,40 +165,40 @@
       "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
     },
     {
-      "basename": "Gestión de Redes CCNA",
-      "path": "public/now/drafts/networking/Gestión de Redes CCNA.md"
+      "basename": "M365. Setup, Conditional Access",
+      "path": "jobs/ti/M365. Setup, Conditional Access.md"
     },
     {
-      "basename": "Mail. Registros DNS",
-      "path": "public/now/drafts/networking/services/Mail. Registros DNS.md"
+      "basename": "Groups",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md"
     },
     {
-      "basename": "Network. Modelo OSI",
-      "path": "public/now/drafts/networking/osi/Network. Modelo OSI.md"
+      "basename": "External Identities",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md"
     },
     {
-      "basename": "Network. ARP (Address Resolution Protocol)",
-      "path": "public/now/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md"
+      "basename": "Entra ID",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md"
     },
     {
-      "basename": "Fortigate VPN",
-      "path": "public/now/drafts/networking/hardware/Fortigate VPN.md"
+      "basename": "Enterprise Apps",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md"
     },
     {
-      "basename": "B2B Collaboration by Cross-tenant Access",
-      "path": "public/now/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
+      "basename": "Conditional Access",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md"
     },
     {
-      "basename": "Multitenant Organization in M365",
-      "path": "public/now/drafts/microsoft/tenants/Multitenant Organization in M365.md"
+      "basename": "Authentication Methods",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md"
     },
     {
-      "basename": "ARs Tracker Especificación de Software",
-      "path": "main/$ARs Tracker/ARs Tracker Especificación de Software.md"
+      "basename": "Application Registration",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
     },
     {
-      "basename": "ARs Tracker Entidad-Relación",
-      "path": "main/$ARs Tracker/ARs Tracker Entidad-Relación.md"
+      "basename": "$M365 Portal Azure",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Azure/$M365 Portal Azure.md"
     },
     {
       "basename": "Primitives, Colors (Colores)",
