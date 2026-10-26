@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cad020b08ec1bec2",
+        "id": "5cf85c8093155804",
         "type": "tabs",
         "children": [
           {
-            "id": "4dbbd42b68715dc1",
+            "id": "e694e13c8e2c2c7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -164,8 +163,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot (Quick Chat)"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -184,8 +183,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           }
         ],
@@ -215,42 +214,42 @@
   },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
-    "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md",
-    "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md",
-    "canvas/250528-Excalidraw-SmartCase.excalidraw.md",
-    "canvas/250526-Excalidraw-Khumox.excalidraw.md",
-    "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md",
-    "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
-    "Excalidraw",
-    "src/utils/@ReactorGithub/Reactor Github.md",
-    "src/utils/@React/React.md",
-    "src/utils/@IA/Prompt Engineering.md",
-    "src/utils/@GoogleCLI/Google Photos API.md",
-    "src/utils/@GoogleCLI/Google OAuth2.md",
-    "src/utils/@DesignsPatterns/Patrones de Diseño.md",
-    "src/utils/@DesignsPatterns/Clean Architecture.md",
-    "src/core/@Traiding/Velas Japonesas.md",
-    "public/drafts/systems/Organización de Directorios.md",
-    "public/drafts/systems/Gestión de Documentos (SGDD).md",
-    "public/drafts/networking/networks/Gestión de Redes CCNA.md",
-    "public/drafts/networking/networks",
-    "public/drafts/networking/services/Mail. Registros DNS.md",
+    "main/$Knowledge Management/Tasks Management, Best Practices on your work flow.md",
+    "main/$Knowledge Management",
+    "main/$Testing/Grafana K6 Testing.md",
+    "main/$Testing",
+    "main/$System Design/$Patrones de Arquitectura de Software.md",
+    "main/$System Design/$Hexagonal Architecture, DDD (Domain Driven Development).md",
+    "main/$System Design",
+    "main/$React/$React.md",
+    "main/$React/$Considereaciones React Native, Expo.md",
+    "main/$React",
+    "main/$Development/$Programación Funcional.md",
+    "main/$Development",
+    "public/drafts/networking/hardware/Fortigate VPN.md",
     "public/drafts/networking/osi/Network. Modelo OSI.md",
     "public/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md",
-    "public/drafts/networking/hardware/Fortigate VPN.md",
-    "public/drafts/microsoft/Flujo de Trabajo Multiples Cuentas M365.md",
+    "public/drafts/networking/services/Mail. Registros DNS.md",
+    "public/drafts/networking/networks/Gestión de Redes CCNA.md",
     "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
-    "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
     "public/drafts/microsoft/azure/M365 Change Notifications.md",
+    "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
     "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
-    "main/$Knowledge Management",
-    "jobs/andelytica/Knowledge/Security",
-    "jobs/andelytica/Knowledge/Infrastructure/Networking",
-    "main/$Development",
-    "main/$Testing",
-    "jobs/andelytica/Projects/Quipus/Meets",
+    "public/drafts/microsoft/admins/Microsoft Entra ID.md",
+    "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md",
+    "public/drafts/microsoft/admins/M365 EntraID, Authentication & IDProvider.md",
+    "public/drafts/develop/uml/Maquinas de Estados UML.md",
+    "public/drafts/develop/react/Most used React hooks.md",
+    "public/drafts/develop/protocols/Real-Time Communication with Clients.md",
+    "public/drafts/develop/nvim/NVIM.md",
+    "public/drafts/develop/javascript/Declaraciones de Funciones.md",
+    "public/drafts/develop/javascript/All about variables on JS.md",
+    "public/drafts/networking/osi",
+    "public/drafts/networking/services",
+    "public/drafts/networking/hardware",
+    "public/drafts/networking/networks",
+    "public/drafts/microsoft/tenants",
     "assests/Pasted image 20261021144221.png",
     "assests/Pasted image 20261020143016.png",
     "assests/ARs Tracker Entidad-Relacion.png",
