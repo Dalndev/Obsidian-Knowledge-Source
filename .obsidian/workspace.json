@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cad020b08ec1bec2",
+        "id": "1c7348f414b33d78",
         "type": "tabs",
         "children": [
           {
-            "id": "4dbbd42b68715dc1",
+            "id": "bb77f8951386633b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -211,8 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04e722eb1375090",
+  "active": "bb77f8951386633b",
   "lastOpenFiles": [
+    "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md",
+    "jobs/andelytica/tasks",
     "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md",
     "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md",
     "canvas/250528-Excalidraw-SmartCase.excalidraw.md",
@@ -242,13 +248,11 @@
     "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
     "public/drafts/microsoft/azure/M365 Change Notifications.md",
-    "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
     "main/$Knowledge Management",
     "jobs/andelytica/Knowledge/Security",
     "jobs/andelytica/Knowledge/Infrastructure/Networking",
     "main/$Development",
     "main/$Testing",
-    "jobs/andelytica/Projects/Quipus/Meets",
     "assests/Pasted image 20261021144221.png",
     "assests/Pasted image 20261020143016.png",
     "assests/ARs Tracker Entidad-Relacion.png",
