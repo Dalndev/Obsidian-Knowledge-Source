@@ -5,152 +5,12 @@
       "path": "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md"
     },
     {
-      "basename": "Application Registration",
-      "path": "main/$M365/M365 Admin Centers/entra id/Application Registration.md"
-    },
-    {
-      "basename": "250627-Excalidraw-InfraestructuraRed.excalidraw",
-      "path": "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md"
-    },
-    {
-      "basename": "250528-Excalidraw-SmartCase.excalidraw",
-      "path": "canvas/250528-Excalidraw-SmartCase.excalidraw.md"
-    },
-    {
-      "basename": "250526-Excalidraw-Khumox.excalidraw",
-      "path": "canvas/250526-Excalidraw-Khumox.excalidraw.md"
-    },
-    {
-      "basename": "$20260102-Excalidraw-SmartCase-MVP.excalidraw",
-      "path": "canvas/$20260102-Excalidraw-SmartCase-MVP.excalidraw.md"
-    },
-    {
-      "basename": "Reactor Github",
-      "path": "src/utils/@ReactorGithub/Reactor Github.md"
-    },
-    {
-      "basename": "React",
-      "path": "src/utils/@React/React.md"
-    },
-    {
-      "basename": "Prompt Engineering",
-      "path": "src/utils/@IA/Prompt Engineering.md"
-    },
-    {
-      "basename": "Google Photos API",
-      "path": "src/utils/@GoogleCLI/Google Photos API.md"
-    },
-    {
-      "basename": "Google OAuth2",
-      "path": "src/utils/@GoogleCLI/Google OAuth2.md"
-    },
-    {
-      "basename": "Patrones de Diseño",
-      "path": "src/utils/@DesignsPatterns/Patrones de Diseño.md"
-    },
-    {
-      "basename": "Clean Architecture",
-      "path": "src/utils/@DesignsPatterns/Clean Architecture.md"
-    },
-    {
-      "basename": "Velas Japonesas",
-      "path": "src/core/@Traiding/Velas Japonesas.md"
-    },
-    {
-      "basename": "Organización de Directorios",
-      "path": "public/drafts/systems/Organización de Directorios.md"
-    },
-    {
-      "basename": "Gestión de Documentos (SGDD)",
-      "path": "public/drafts/systems/Gestión de Documentos (SGDD).md"
-    },
-    {
-      "basename": "Gestión de Redes CCNA",
-      "path": "public/drafts/networking/networks/Gestión de Redes CCNA.md"
-    },
-    {
-      "basename": "Mail. Registros DNS",
-      "path": "public/drafts/networking/services/Mail. Registros DNS.md"
-    },
-    {
-      "basename": "Network. Modelo OSI",
-      "path": "public/drafts/networking/osi/Network. Modelo OSI.md"
-    },
-    {
-      "basename": "Network. ARP (Address Resolution Protocol)",
-      "path": "public/drafts/networking/osi/Network. ARP (Address Resolution Protocol).md"
-    },
-    {
-      "basename": "Fortigate VPN",
-      "path": "public/drafts/networking/hardware/Fortigate VPN.md"
-    },
-    {
-      "basename": "Flujo de Trabajo Multiples Cuentas M365",
-      "path": "public/drafts/microsoft/Flujo de Trabajo Multiples Cuentas M365.md"
-    },
-    {
-      "basename": "Multitenant Organization in M365",
-      "path": "public/drafts/microsoft/tenants/Multitenant Organization in M365.md"
-    },
-    {
-      "basename": "B2B Collaboration by Cross-tenant Access",
-      "path": "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
-    },
-    {
-      "basename": "Azure Change (Events) Notifications",
-      "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
-    },
-    {
-      "basename": "M365 Change Notifications",
-      "path": "public/drafts/microsoft/azure/M365 Change Notifications.md"
-    },
-    {
-      "basename": "Microsoft Exchange (EAC)",
-      "path": "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md"
-    },
-    {
-      "basename": "Microsoft Entra ID",
-      "path": "public/drafts/microsoft/admins/Microsoft Entra ID.md"
-    },
-    {
-      "basename": "Microsoft 365 Admin Center (MAC)",
-      "path": "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md"
-    },
-    {
-      "basename": "M365 EntraID, Authentication & IDProvider",
-      "path": "public/drafts/microsoft/admins/M365 EntraID, Authentication & IDProvider.md"
-    },
-    {
-      "basename": "Tasks Management, Best Practices on your work flow",
-      "path": "main/$Knowledge Management/Tasks Management, Best Practices on your work flow.md"
-    },
-    {
-      "basename": "Network. Villagomez Capital Infraestructura de Red",
-      "path": "jobs/andelytica/Knowledge/Infrastructure/Networking/Network. Villagomez Capital Infraestructura de Red.md"
-    },
-    {
-      "basename": "Estrategias MDM (Mobile Device Management)",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Intune/Estrategias MDM (Mobile Device Management).md"
-    },
-    {
-      "basename": "$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos",
-      "path": "jobs/andelytica/Projects/Quipus/Meets/$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos.md"
-    },
-    {
-      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
-      "path": "main/$System Design/$Hexagonal Architecture, DDD (Domain Driven Development).md"
-    },
-    {
-      "basename": "Synology NAS Integration M365",
-      "path": "jobs/andelytica/Knowledge/Infrastructure/NAS/Synology NAS Integration M365.md"
-    },
-    {
-      "basename": "$Considereaciones React Native, Expo",
-      "path": "main/$React/$Considereaciones React Native, Expo.md"
-    },
-    {
       "basename": "Tasks. Funding v4",
       "path": "jobs/villagomez-capital/Tasks/Tasks. Funding v4.md"
+    },
+    {
+      "basename": "M365. Setup, Conditional Access",
+      "path": "jobs/ti/M365. Setup, Conditional Access.md"
     },
     {
       "basename": "Funding. Protocol, Gestión de Solicitudes PO (PayOffs) en Villagomez Capital",
@@ -165,40 +25,56 @@
       "path": "jobs/ti/M365. Protocol, Gestión de MFA (Multifactor Authentication) en Usuario Microsoft 365.md"
     },
     {
-      "basename": "M365. Setup, Conditional Access",
-      "path": "jobs/ti/M365. Setup, Conditional Access.md"
+      "basename": "Primitives, Colors (Colores)",
+      "path": "main/$Design System UI/Primitives, Colors (Colores).md"
     },
     {
-      "basename": "Groups",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md"
+      "basename": "Primitives, Size (Espaciado)",
+      "path": "main/$Design System UI/Primitives, Size (Espaciado).md"
     },
     {
-      "basename": "External Identities",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md"
+      "basename": "Modifiers, State (Estado)",
+      "path": "main/$Design System UI/Modifiers, State (Estado).md"
     },
     {
-      "basename": "Entra ID",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md"
+      "basename": "Primitives, Typography (Tipografía)",
+      "path": "main/$Design System UI/Primitives, Typography (Tipografía).md"
     },
     {
-      "basename": "Enterprise Apps",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md"
+      "basename": "Tmux",
+      "path": "main/$Cheatsheets/Tmux.md"
     },
     {
-      "basename": "Conditional Access",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md"
+      "basename": "Git",
+      "path": "main/$Cheatsheets/Git.md"
     },
     {
-      "basename": "Authentication Methods",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md"
+      "basename": "Busines Model Canvas",
+      "path": "main/$Business Model Canvas/Busines Model Canvas.md"
     },
     {
-      "basename": "Application Registration",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
+      "basename": "Estrategia de servicios de ITIL",
+      "path": "src/core/@ITSM&ITIL/common/IT Service Management/ITIL/Estrategia de servicios de ITIL.md"
     },
     {
-      "basename": "$M365 Portal Azure",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Azure/$M365 Portal Azure.md"
+      "basename": "index 🤔",
+      "path": "index 🤔.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Mapa de Conocimiento",
+      "path": "Mapa de Conocimiento.md"
+    },
+    {
+      "basename": "250828-Excalidraw-VillagomezMultiTenant.excalidraw",
+      "path": "canvas/250828-Excalidraw-VillagomezMultiTenant.excalidraw.md"
+    },
+    {
+      "basename": "250627-Excalidraw-InfraestructuraRed.excalidraw",
+      "path": "canvas/250627-Excalidraw-InfraestructuraRed.excalidraw.md"
     }
   ],
   "omittedPaths": [],
