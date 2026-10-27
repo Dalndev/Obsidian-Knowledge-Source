@@ -35,7 +35,6 @@ Microsoft Entra ID representa las aplicaciones mediante objetos de aplicación (
 - **Client Credentials Flow**. Utilizado cuando no existe un usuario conectado, enfocado para sistemas.
 - **On-Behalf-Of (OBO)**. Utilizado cuando una API Middleware gestiona el token de autenticación/autorización del usuario para realizar solicitudes a otra API tercera conservando el contexto de accedo/delegado.
 - **Device Code Flow**. Utilizado para dispositivos con entrada limitada.
-- 
 - **Implicit Flow, Resource Owner Password Credentials (ROPC)**.
 
 **Service Principal (Instancia)**. Es la instancia local de la aplicación dentro del tenant (Enterprise Applications)
