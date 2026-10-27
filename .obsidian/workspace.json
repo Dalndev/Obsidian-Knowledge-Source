@@ -11,10 +11,14 @@
             "id": "e694e13c8e2c2c7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Application Registration"
             }
           }
         ]
@@ -86,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -214,6 +219,15 @@
   },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md",
     "main/$Knowledge Management/Tasks Management, Best Practices on your work flow.md",
     "main/$Knowledge Management",
     "main/$Testing/Grafana K6 Testing.md",
@@ -236,15 +250,6 @@
     "public/drafts/microsoft/azure/M365 Change Notifications.md",
     "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
     "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
-    "public/drafts/microsoft/admins/Microsoft Entra ID.md",
-    "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md",
-    "public/drafts/microsoft/admins/M365 EntraID, Authentication & IDProvider.md",
-    "public/drafts/develop/uml/Maquinas de Estados UML.md",
-    "public/drafts/develop/react/Most used React hooks.md",
-    "public/drafts/develop/protocols/Real-Time Communication with Clients.md",
-    "public/drafts/develop/nvim/NVIM.md",
-    "public/drafts/develop/javascript/Declaraciones de Funciones.md",
-    "public/drafts/develop/javascript/All about variables on JS.md",
     "public/drafts/networking/osi",
     "public/drafts/networking/services",
     "public/drafts/networking/hardware",

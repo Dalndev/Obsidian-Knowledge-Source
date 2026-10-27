@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Registration",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
+    },
+    {
+      "basename": "Entra ID",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md"
+    },
+    {
+      "basename": "External Identities",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md"
+    },
+    {
+      "basename": "Enterprise Apps",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md"
+    },
+    {
+      "basename": "Conditional Access",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md"
+    },
+    {
+      "basename": "Authentication Methods",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md"
+    },
+    {
+      "basename": "Multi-Factor Authentication",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md"
+    },
+    {
+      "basename": "Users",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md"
+    },
+    {
+      "basename": "Groups",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md"
+    },
+    {
       "basename": "Migración WhatsApp a M365 Teams",
       "path": "jobs/andelytica/tasks/Migración WhatsApp a M365 Teams.md"
     },
