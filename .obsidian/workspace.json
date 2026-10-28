@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
+                "file": "jobs/andelytica/Knowledge/Microsoft 365/Teams/Microsoft Teams. Manual de Usuario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Registration"
+              "title": "Microsoft Teams. Manual de Usuario"
             }
           }
         ]
@@ -219,12 +219,15 @@
   },
   "active": "e694e13c8e2c2c7e",
   "lastOpenFiles": [
+    "assests/Pasted image 20261028105717.png",
+    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/Teams/Microsoft Teams. Manual de Usuario.md",
+    "jobs/andelytica/Knowledge/Microsoft 365/Teams",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md",
-    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md",
@@ -248,13 +251,10 @@
     "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "public/drafts/microsoft/azure/M365 Change Notifications.md",
-    "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
-    "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
     "public/drafts/networking/osi",
     "public/drafts/networking/services",
     "public/drafts/networking/hardware",
     "public/drafts/networking/networks",
-    "public/drafts/microsoft/tenants",
     "assests/Pasted image 20261021144221.png",
     "assests/Pasted image 20261020143016.png",
     "assests/ARs Tracker Entidad-Relacion.png",
