@@ -6,7 +6,7 @@
   "phoneFooterSafeAreaPadding": false,
   "tabletFooterSafeAreaPadding": false,
   "folder": "Excalidraw",
-  "libraryFolderPath": "Excalidraw/Libraries",
+  "libraryFolderPath": "canvas/libs",
   "libraryFileName": "local-library",
   "libraryStorageMode": "vault",
   "libraryMigrationStatus": "completed",

@@ -30,6 +30,7 @@
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
+  "autoAttachActiveNote": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
@@ -337,7 +338,7 @@
   "enableCustomPromptTemplating": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
-  "enableMiyoSearchSkill": false,
+  "enableMiyoSearchSkill": true,
   "miyoSearchAll": false,
   "miyoExtraSearchFolders": [],
   "relevantNotesLiveUpdate": true,
@@ -646,6 +647,6 @@
   "selfHostUrl": "",
   "selfHostApiKey": "",
   "_keychainVaultId": "5e19b278",
-  "settingsVersion": 15,
+  "settingsVersion": 16,
   "miyoConnectionMode": "local"
 }
