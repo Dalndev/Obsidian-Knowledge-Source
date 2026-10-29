@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Registration",
+      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
+    },
+    {
+      "basename": "Análisis Financiero",
+      "path": "src/business/@Factoring/Finanzas/Análisis Financiero.md"
+    },
+    {
+      "basename": "Indices Financieros",
+      "path": "src/business/@Factoring/Finanzas/Indices Financieros.md"
+    },
+    {
+      "basename": "Finanzas Personales",
+      "path": "src/business/@Factoring/Finanzas/Finanzas Personales.md"
+    },
+    {
+      "basename": "Factoring",
+      "path": "src/business/@Factoring/Finanzas/Factoring.md"
+    },
+    {
+      "basename": "Balances Generales",
+      "path": "src/business/@Factoring/Finanzas/Balances Generales.md"
+    },
+    {
+      "basename": "Balance General",
+      "path": "src/business/@Factoring/Finanzas/Balance General.md"
+    },
+    {
+      "basename": "Prompt Engineering",
+      "path": "public/drafts/ai/Prompt Engineering.md"
+    },
+    {
+      "basename": "AI Chatboot with RAG",
+      "path": "public/drafts/ai/AI Chatboot with RAG.md"
+    },
+    {
       "basename": "Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite",
       "path": "others/ansible/Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "261029-Quipus-Web.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Web.excalidraw.md"
-    },
-    {
-      "basename": "250528-SmartCase.excalidraw",
-      "path": "canvas/archive/250528-SmartCase.excalidraw.md"
-    },
-    {
-      "basename": "250828-Villagomez-MultiTenant.excalidraw",
-      "path": "jobs/canvas/250828-Villagomez-MultiTenant.excalidraw.md"
-    },
-    {
-      "basename": "250627-InfraestructuraRed.excalidraw",
-      "path": "jobs/canvas/250627-InfraestructuraRed.excalidraw.md"
-    },
-    {
-      "basename": "Microsoft Teams. Manual de Usuario",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/Teams/Microsoft Teams. Manual de Usuario.md"
-    },
-    {
-      "basename": "Application Registration",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
-    },
-    {
-      "basename": "Entra ID",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md"
-    },
-    {
-      "basename": "External Identities",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md"
-    },
-    {
-      "basename": "Enterprise Apps",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md"
-    },
-    {
-      "basename": "Conditional Access",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md"
     }
   ],
   "omittedPaths": [],
