@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "abdbff5a1d928a56",
+        "id": "55516e6b899dd7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "f8945cf49acbc787",
+            "id": "cd6b2fdd330963bd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md"
+                "file": "jobs/asinfo/Technical Review (SQL).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "261029-ARs-ActitvitiesTracker.excalidraw"
+              "icon": "lucide-file",
+              "title": "Technical Review (SQL)"
             }
           }
         ]
@@ -195,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125,
-    "collapsed": true
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8945cf49acbc787",
+  "active": "cd6b2fdd330963bd",
   "lastOpenFiles": [
+    "jobs/asinfo/Technical Review (Java).md",
+    "jobs/asinfo/Technical Review (SQL).md",
+    "jobs/asinfo",
+    "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md",
     "canvas/250526-InventoryTracker.excalidraw.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
     "public/drafts/cloud/microsoft/identity",
@@ -240,7 +245,6 @@
     "public/drafts/develop/user histories",
     "public/drafts/develop/testing",
     "public/drafts/design/design system (ui)/Modifiers, State (Estado).md",
-    "public/drafts/develop/react native",
     "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
@@ -251,9 +255,6 @@
     "public/drafts/microsoft/mto/Flujo de Trabajo Multiples Cuentas M365.md",
     "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
     "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
-    "public/drafts/microsoft/azure/M365 Change Notifications.md",
-    "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
-    "public/drafts/microsoft/admins/Microsoft Entra ID.md",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
     "assests/Pasted image 20261029130749 2.svg",

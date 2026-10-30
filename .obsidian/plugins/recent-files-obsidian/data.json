@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Technical Review (SQL)",
+      "path": "jobs/asinfo/Technical Review (SQL).md"
+    },
+    {
+      "basename": "Technical Review (Java)",
+      "path": "jobs/asinfo/Technical Review (Java).md"
+    },
+    {
       "basename": "261029-ARs-ActitvitiesTracker.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "261028-Quipus-Web_v001.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261028-Quipus-Web_v001.excalidraw.md"
-    },
-    {
-      "basename": "261029-Quipus-UI.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-UI.excalidraw.md"
-    },
-    {
-      "basename": "261029-Quipus-Web.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Web.excalidraw.md"
     }
   ],
   "omittedPaths": [],
