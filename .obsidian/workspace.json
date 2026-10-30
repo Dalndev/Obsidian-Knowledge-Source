@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bebc298eeee52d94",
+        "id": "abdbff5a1d928a56",
         "type": "tabs",
         "children": [
           {
-            "id": "fdfbb3c541722e71",
+            "id": "f8945cf49acbc787",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "261029-ARs-ActitvitiesTracker.excalidraw"
             }
           }
         ]
@@ -86,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 315.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -163,8 +166,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot (Quick Chat)"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -183,8 +186,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           }
         ],
@@ -192,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125
+    "width": 454.3828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdfbb3c541722e71",
+  "active": "f8945cf49acbc787",
   "lastOpenFiles": [
+    "canvas/250526-InventoryTracker.excalidraw.md",
     "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
     "public/drafts/cloud/microsoft/identity",
     "public/drafts/cloud/microsoft",
@@ -249,7 +254,6 @@
     "public/drafts/microsoft/azure/M365 Change Notifications.md",
     "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
     "public/drafts/microsoft/admins/Microsoft Entra ID.md",
-    "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
     "assests/Pasted image 20261029130749 2.svg",
