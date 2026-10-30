@@ -9,7 +9,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Cambia el formato markdown definido en el archivo [[main/$Cheatsheets/Nvim]] al formato utilizado en [[Git]]
+**user**: Cambia el formato markdown definido en el archivo [[public/drafts/utils/cheatsheets/Nvim]] al formato utilizado en [[Git]]
 [Timestamp: 2026/08/25 19:51:42]
 
 **ai**: I'll read both notes to compare their formats.Ya tengo ambos formatos claros. Las diferencias:
@@ -18,7 +18,7 @@ tags:
 
 **Nvim.md**: emojis en cada título, separadores `---`, una tabla, y listas de viñetas con `` `tecla` ``: descripción.
 
-Voy a reescribir Nvim.md con el formato de Git.md, conservando todo el contenido.Listo. [[main/$Cheatsheets/Nvim]] ahora sigue el mismo formato que [[Git]]:
+Voy a reescribir Nvim.md con el formato de Git.md, conservando todo el contenido.Listo. [[public/drafts/utils/cheatsheets/Nvim]] ahora sigue el mismo formato que [[Git]]:
 
 **Cambios aplicados:**
 
