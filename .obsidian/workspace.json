@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125
+    "width": 454.3828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
