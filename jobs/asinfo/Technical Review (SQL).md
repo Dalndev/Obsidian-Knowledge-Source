@@ -16,11 +16,6 @@ Símbolos o palabras reservadas empleadas para ejecutar operaciones de **recuper
 **SQL (Sentencias)**.
 - **SELECT**. Utilizada para recuperar información de una o más tablas de una base de datos, en donde se puede aplicar filtros, ordenamientos y varias operaciones (*Joins, Subqueries, Aggregations*) sobre la información. 
 - **INSERT**. Utilizado para agregar nuevas filas de información en una tabla donde se especifica el valor a insertar en cada columna. 
-- 
-
-
-
-
 - UPDATE.
 - DELETE.
 
