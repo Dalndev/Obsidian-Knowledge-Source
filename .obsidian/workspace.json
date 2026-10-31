@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bebc298eeee52d94",
+        "id": "86ddf61ea744fd9e",
         "type": "tabs",
         "children": [
           {
-            "id": "fdfbb3c541722e71",
+            "id": "7db253c97feb08d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "canvas/261029-B2B-Brainstorm.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "261029-B2B-Brainstorm.excalidraw"
             }
           }
         ]
@@ -163,8 +165,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot (Quick Chat)"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -183,8 +185,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           }
         ],
@@ -204,62 +206,61 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-importer:Import notes": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-projects:Open projects": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdfbb3c541722e71",
+  "active": "d04e722eb1375090",
   "lastOpenFiles": [
-    "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
-    "public/drafts/cloud/microsoft/identity",
-    "public/drafts/cloud/microsoft",
-    "src/business/@Factoring/Finanzas/Análisis Financiero.md",
-    "src/utils/@React/React.md",
-    "public/drafts/cloud/google",
+    "canvas/260102-SmartCase-MVP.excalidraw.md",
+    "canvas/261029-B2B-Brainstorm.excalidraw.md",
+    "canvas/261029-Dalndev.excalidraw.md",
+    "canvas/261029-B2B-BCM.excalidraw.md",
+    "canvas/250526-InventoryTracker.excalidraw.md",
+    "canvas/archive/250528-SmartCase.excalidraw.md",
+    "src/skills/@Traiding/Velas Japonesas.md",
+    "src/skills/@Marketing/Meta Business Suite.md",
+    "src/skills/@Traiding",
+    "src/skills/@Marketing",
+    "src/skills",
+    "src/core/@DesignsPatterns/Patrones de Diseño.md",
+    "src/core/@DesignsPatterns/DP002-Prototype",
+    "src/core/@DesignsPatterns/DP001-Singleton.js",
+    "src/core/@DesignsPatterns/Clean Architecture.md",
+    "src/core/@DesignsPatterns",
+    "src/core/@AtomicDesign/Atomic Design & Design System.md",
+    "src/core/@AtomicDesign",
+    "src/core/@Angular/Angular.md",
+    "src/core/@Angular",
+    "src/business/@Factoring/SRI/SRI (Facturas).md",
     "src/business/@Factoring/Finanzas/Indices Financieros.md",
     "src/business/@Factoring/Finanzas/Finanzas Personales.md",
     "src/business/@Factoring/Finanzas/Factoring.md",
     "src/business/@Factoring/Finanzas/Balances Generales.md",
     "src/business/@Factoring/Finanzas/Balance General.md",
-    "public/drafts/ai/Prompt Engineering.md",
-    "public/drafts/ai/AI Chatboot with RAG.md",
-    "src/skills",
-    "others/ansible/Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite.md",
-    "public/drafts/cloud",
-    "src/business",
-    "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
-    "others/ansible",
-    "public/drafts/develop/user histories",
-    "public/drafts/develop/testing",
-    "public/drafts/design/design system (ui)/Modifiers, State (Estado).md",
-    "public/drafts/develop/react native",
-    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
-    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
-    "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
-    "public/drafts/utils/cheatsheets/Git.md",
-    "public/drafts/business/Procesos de Importacion y Distribuición.md",
-    "public/drafts/utils/Untitled.canvas",
-    "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
-    "public/drafts/microsoft/mto/Flujo de Trabajo Multiples Cuentas M365.md",
-    "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
-    "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
-    "public/drafts/microsoft/azure/M365 Change Notifications.md",
-    "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md",
-    "public/drafts/microsoft/admins/Microsoft Entra ID.md",
-    "public/drafts/microsoft/admins/Microsoft 365 Admin Center (MAC).md",
+    "src/business/@Factoring/Finanzas/Análisis Financiero.md",
+    "src/business/@Factoring/SRI",
+    "src/business/@Factoring/Finanzas",
+    "src/archive/@UPSDegreeWork/E-Commerce/Resources/Images/Logos/Minifashion_Logo.jpg",
+    "src/archive/@UPSDegreeWork/E-Commerce/Resources/Images/Logos/Minifashion.svg",
+    "src/archive/@UPSDegreeWork/E-Commerce/Tasks/Kanban Dashboard.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Diagrams/Shopify Events.excalidraw.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Diagrams/SAWS_General.excalidraw.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Diagrams/AWS Services Architecture.excalidraw.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Diagrams/SAWS_Event_Handler.excalidraw.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Diagrams/AWS Aurora Database.excalidraw.md",
+    "src/archive/@UPSDegreeWork/E-Commerce/Anexos/Shopify_Icon.jpg",
+    "src/archive/@UPSDegreeWork/400 - Archives/401 - UML Diagrams/UML Diagrams SA - AWS.png",
+    "src/archive/@UPSDegreeWork/400 - Archives/401 - UML Diagrams/UML Diagrams SA - Webhook.png",
+    "src/archive/@UPSDegreeWork/400 - Archives/401 - UML Diagrams/UML Diagrams SA - API.png",
+    "src/archive/@UPSDegreeWork/400 - Archives/401 - UML Diagrams/UML Diagrams ER.png",
+    "src/archive/@UPSDegreeWork/300 - Resources/301 - Serverless/Serveless Computing.md",
+    "assests/Pasted image 20261029130749.svg",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
-    "assests/Pasted image 20261029130749 2.svg",
-    "assests/Pasted image 20261029130749 1.svg",
-    "assests/Pasted image 20261029130749.svg",
-    "assests/Pasted image 20261029130708.svg",
-    "assests/Pasted image 20261028105717.png",
-    "assests/Pasted image 20261021144221.png",
-    "assests/Pasted image 20261020143016.png",
-    "assests/ARs Tracker Entidad-Relacion.png",
     "canvas/Untitled.canvas",
     "canvas/Sin título.canvas"
   ]

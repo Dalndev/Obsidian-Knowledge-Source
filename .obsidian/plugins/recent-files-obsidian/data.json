@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "261029-B2B-Brainstorm.excalidraw",
+      "path": "canvas/261029-B2B-Brainstorm.excalidraw.md"
+    },
+    {
+      "basename": "260102-SmartCase-MVP.excalidraw",
+      "path": "canvas/260102-SmartCase-MVP.excalidraw.md"
+    },
+    {
+      "basename": "261029-Dalndev.excalidraw",
+      "path": "canvas/261029-Dalndev.excalidraw.md"
+    },
+    {
+      "basename": "261029-B2B-BCM.excalidraw",
+      "path": "canvas/261029-B2B-BCM.excalidraw.md"
+    },
+    {
+      "basename": "250526-InventoryTracker.excalidraw",
+      "path": "canvas/250526-InventoryTracker.excalidraw.md"
+    },
+    {
+      "basename": "250528-SmartCase.excalidraw",
+      "path": "canvas/archive/250528-SmartCase.excalidraw.md"
+    },
+    {
       "basename": "Application Registration",
       "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
     },
@@ -145,26 +169,6 @@
       "path": "src/core/@AtomicDesign/Atomic Design & Design System.md"
     },
     {
-      "basename": "261029-Dalndev.excalidraw",
-      "path": "canvas/261029-Dalndev.excalidraw.md"
-    },
-    {
-      "basename": "261029-B2B-Brainstorm.excalidraw",
-      "path": "canvas/261029-B2B-Brainstorm.excalidraw.md"
-    },
-    {
-      "basename": "261029-B2B-BCM.excalidraw",
-      "path": "canvas/261029-B2B-BCM.excalidraw.md"
-    },
-    {
-      "basename": "260102-SmartCase-MVP.excalidraw",
-      "path": "canvas/260102-SmartCase-MVP.excalidraw.md"
-    },
-    {
-      "basename": "250526-InventoryTracker.excalidraw",
-      "path": "canvas/250526-InventoryTracker.excalidraw.md"
-    },
-    {
       "basename": "Workflow-Billing.excalidraw",
       "path": "jobs/andelytica/canvas/slides/Workflow-Billing.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "261029-Quipus-UI.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-UI.excalidraw.md"
-    },
-    {
-      "basename": "261029-Quipus-Web.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Web.excalidraw.md"
     }
   ],
   "omittedPaths": [],
