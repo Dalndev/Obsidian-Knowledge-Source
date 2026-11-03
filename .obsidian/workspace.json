@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55516e6b899dd7a1",
+        "id": "e7d4364f3dc56ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "cd6b2fdd330963bd",
+            "id": "aea1eaa62053af1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.1000061035156,
-    "collapsed": true
+    "width": 315.1000061035156
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -217,11 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd6b2fdd330963bd",
+  "active": "aea1eaa62053af1d",
   "lastOpenFiles": [
     "jobs/asinfo/Technical Review (Java).md",
-    "canvas/261029-B2B-Brainstorm.excalidraw.md",
+    "jobs/asinfo/Technical Review (Design Patterns).md",
     "jobs/asinfo/Technical Review (SQL).md",
+    "jobs/asinfo/Technical Review (Data Structure).md",
+    "canvas/261029-B2B-Brainstorm.excalidraw.md",
     "jobs/asinfo",
     "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md",
     "canvas/250526-InventoryTracker.excalidraw.md",
@@ -254,9 +255,6 @@
     "public/drafts/business/Procesos de Importacion y Distribuición.md",
     "public/drafts/utils/Untitled.canvas",
     "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
-    "public/drafts/microsoft/mto/Flujo de Trabajo Multiples Cuentas M365.md",
-    "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md",
-    "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
     "assests/Pasted image 20261029130749 2.svg",

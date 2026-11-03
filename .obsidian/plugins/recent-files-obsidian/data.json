@@ -9,6 +9,14 @@
       "path": "jobs/asinfo/Technical Review (Java).md"
     },
     {
+      "basename": "Technical Review (Design Patterns)",
+      "path": "jobs/asinfo/Technical Review (Design Patterns).md"
+    },
+    {
+      "basename": "Technical Review (Data Structure)",
+      "path": "jobs/asinfo/Technical Review (Data Structure).md"
+    },
+    {
       "basename": "261029-ARs-ActitvitiesTracker.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "261029-Quipus-Mobile.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Mobile.excalidraw.md"
-    },
-    {
-      "basename": "261029-n8n.excalidraw",
-      "path": "jobs/andelytica/canvas/infrastructure/261029-n8n.excalidraw.md"
-    },
-    {
-      "basename": "261028-Quipus-Web_v001.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261028-Quipus-Web_v001.excalidraw.md"
     }
   ],
   "omittedPaths": [],
