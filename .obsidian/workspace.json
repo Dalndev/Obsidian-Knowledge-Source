@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/asinfo/Technical Review (SQL).md",
+                "file": "jobs/asinfo/SQL/Technical Review (SQL).md",
                 "mode": "source",
                 "source": false
               },
@@ -218,12 +218,13 @@
   },
   "active": "64b13bfe00ee80e3",
   "lastOpenFiles": [
-    "jobs/props/Frappe (Learning Management System).md",
-    "jobs/asinfo/Technical Review (SQL).md",
-    "jobs/props",
-    "jobs/asinfo/Technical Review (Design Patterns).md",
+    "jobs/asinfo/SQL",
     "jobs/asinfo/Technical Review (Data Structure).md",
+    "jobs/asinfo/Technical Review (Design Patterns).md",
     "jobs/asinfo/Technical Review (Java).md",
+    "jobs/asinfo/SQL/Technical Review (SQL).md",
+    "jobs/props/Frappe (Learning Management System).md",
+    "jobs/props",
     "jobs/asinfo",
     "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md",
     "canvas/250526-InventoryTracker.excalidraw.md",
@@ -254,7 +255,6 @@
     "public/drafts/utils/cheatsheets/Git.md",
     "public/drafts/business/Procesos de Importacion y Distribuición.md",
     "public/drafts/utils/Untitled.canvas",
-    "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
     "assests/Pasted image 20261029130749 2.svg",

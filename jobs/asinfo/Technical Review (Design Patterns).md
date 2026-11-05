@@ -1,1 +1,4 @@
 **DAO**
+**Singleton**.
+**Adapter**.
+**Decorator**.
