@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/props/Frappe LMS (Learning Management System).md",
+                "file": "jobs/asinfo/Technical Review (SQL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frappe LMS (Learning Management System)"
+              "title": "Technical Review (SQL)"
             }
           }
         ]
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125,
-    "collapsed": true
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +217,8 @@
   },
   "active": "aea1eaa62053af1d",
   "lastOpenFiles": [
-    "jobs/asinfo/Technical Review (SQL).md",
     "jobs/props/Frappe LMS (Learning Management System).md",
+    "jobs/asinfo/Technical Review (SQL).md",
     "jobs/props",
     "jobs/asinfo/Technical Review (Java).md",
     "jobs/asinfo/Technical Review (Design Patterns).md",
