@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Frappe LMS (Learning Management System)",
+      "path": "jobs/props/Frappe LMS (Learning Management System).md"
+    },
+    {
       "basename": "Technical Review (SQL)",
       "path": "jobs/asinfo/Technical Review (SQL).md"
     },
     {
       "basename": "Technical Review (Java)",
       "path": "jobs/asinfo/Technical Review (Java).md"
+    },
+    {
+      "basename": "Technical Review (Design Patterns)",
+      "path": "jobs/asinfo/Technical Review (Design Patterns).md"
+    },
+    {
+      "basename": "Technical Review (Data Structure)",
+      "path": "jobs/asinfo/Technical Review (Data Structure).md"
     },
     {
       "basename": "261029-ARs-ActitvitiesTracker.excalidraw",
@@ -187,18 +199,6 @@
     {
       "basename": "Plan-Quipus-DigitalProduct.excalidraw",
       "path": "jobs/andelytica/canvas/slides/Plan-Quipus-DigitalProduct.excalidraw.md"
-    },
-    {
-      "basename": "261029-Quipus-Mobile.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Mobile.excalidraw.md"
-    },
-    {
-      "basename": "261029-n8n.excalidraw",
-      "path": "jobs/andelytica/canvas/infrastructure/261029-n8n.excalidraw.md"
-    },
-    {
-      "basename": "261028-Quipus-Web_v001.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261028-Quipus-Web_v001.excalidraw.md"
     }
   ],
   "omittedPaths": [],
