@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Frappe LMS (Learning Management System)",
+      "path": "jobs/props/Frappe LMS (Learning Management System).md"
+    },
+    {
       "basename": "Technical Review (SQL)",
       "path": "jobs/asinfo/Technical Review (SQL).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Plan-Quipus-DigitalProduct.excalidraw",
       "path": "jobs/andelytica/canvas/slides/Plan-Quipus-DigitalProduct.excalidraw.md"
-    },
-    {
-      "basename": "261029-Quipus-Mobile.excalidraw",
-      "path": "jobs/andelytica/canvas/wireframes/261029-Quipus-Mobile.excalidraw.md"
     }
   ],
   "omittedPaths": [],

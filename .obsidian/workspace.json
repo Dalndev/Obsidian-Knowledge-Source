@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/asinfo/Technical Review (SQL).md",
+                "file": "jobs/props/Frappe LMS (Learning Management System).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Review (SQL)"
+              "title": "Frappe LMS (Learning Management System)"
             }
           }
         ]
@@ -218,9 +218,11 @@
   },
   "active": "aea1eaa62053af1d",
   "lastOpenFiles": [
+    "jobs/asinfo/Technical Review (SQL).md",
+    "jobs/props/Frappe LMS (Learning Management System).md",
+    "jobs/props",
     "jobs/asinfo/Technical Review (Java).md",
     "jobs/asinfo/Technical Review (Design Patterns).md",
-    "jobs/asinfo/Technical Review (SQL).md",
     "jobs/asinfo/Technical Review (Data Structure).md",
     "canvas/261029-B2B-Brainstorm.excalidraw.md",
     "jobs/asinfo",
@@ -246,7 +248,6 @@
     "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
     "others/ansible",
     "public/drafts/develop/user histories",
-    "public/drafts/develop/testing",
     "public/drafts/design/design system (ui)/Modifiers, State (Estado).md",
     "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
@@ -254,7 +255,6 @@
     "public/drafts/utils/cheatsheets/Git.md",
     "public/drafts/business/Procesos de Importacion y Distribuición.md",
     "public/drafts/utils/Untitled.canvas",
-    "public/drafts/microsoft/tenants/Multitenant Organization in M365.md",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",
     "assests/Pasted image 20261029130749 2.svg",
