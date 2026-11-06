@@ -5,6 +5,34 @@
       "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
     },
     {
+      "basename": "SQL Subqueries",
+      "path": "jobs/asinfo/SQL/SQL Subqueries.md"
+    },
+    {
+      "basename": "SQL JOIN Queries",
+      "path": "jobs/asinfo/SQL/SQL JOIN Queries.md"
+    },
+    {
+      "basename": "SQL Constrains",
+      "path": "jobs/asinfo/SQL/SQL Constrains.md"
+    },
+    {
+      "basename": "SQL Data Definition Language",
+      "path": "jobs/asinfo/SQL/SQL Data Definition Language.md"
+    },
+    {
+      "basename": "SQL Data Manipulation Language",
+      "path": "jobs/asinfo/SQL/SQL Data Manipulation Language.md"
+    },
+    {
+      "basename": "SQL Sentencias",
+      "path": "jobs/asinfo/SQL/SQL Sentencias.md"
+    },
+    {
+      "basename": "SQL Operadores",
+      "path": "jobs/asinfo/SQL/SQL Operadores.md"
+    },
+    {
       "basename": "Technical Review (Data Structure)",
       "path": "jobs/asinfo/Technical Review (Data Structure).md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Atomic Design & Design System",
       "path": "src/core/@AtomicDesign/Atomic Design & Design System.md"
-    },
-    {
-      "basename": "261029-Dalndev.excalidraw",
-      "path": "canvas/261029-Dalndev.excalidraw.md"
-    },
-    {
-      "basename": "261029-B2B-Brainstorm.excalidraw",
-      "path": "canvas/261029-B2B-Brainstorm.excalidraw.md"
-    },
-    {
-      "basename": "261029-B2B-BCM.excalidraw",
-      "path": "canvas/261029-B2B-BCM.excalidraw.md"
-    },
-    {
-      "basename": "260102-SmartCase-MVP.excalidraw",
-      "path": "canvas/260102-SmartCase-MVP.excalidraw.md"
-    },
-    {
-      "basename": "Workflow-Billing.excalidraw",
-      "path": "jobs/andelytica/canvas/slides/Workflow-Billing.excalidraw.md"
-    },
-    {
-      "basename": "Knowledge-BackendIceberg.excalidraw",
-      "path": "jobs/andelytica/canvas/slides/Knowledge-BackendIceberg.excalidraw.md"
-    },
-    {
-      "basename": "Plan-Quipus-DigitalProduct.excalidraw",
-      "path": "jobs/andelytica/canvas/slides/Plan-Quipus-DigitalProduct.excalidraw.md"
     }
   ],
   "omittedPaths": [],

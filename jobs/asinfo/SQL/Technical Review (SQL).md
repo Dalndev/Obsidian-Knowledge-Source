@@ -54,20 +54,28 @@ Subsets de SQL para definir y gestionar las estructuras "database objects". Perm
 > Las FOREIGN KEY garantizan que los valores de la tabla de referencia se correspondan con valores válidos en la tabla referenciada, lo que evita registros huérfanos y mantiene la coherencia de los datos entre las tablas.
 
 - **UNIQUE**. Asegura que los valores en una o mas columnas sean diferentes, evita entradas duplicadas manteniendo la integridad de datos al garantizar la unicidad de datos en campos específicos.
-- **NOT NULL**. Restricción que garantiza que una columna no acepte valores NULL, obliga a que una columna
-- **CHECK**.
+- **NOT NULL**. Restricción que garantiza que una columna no acepte valores NULL, obliga a que cada fila a ingresar o actualizar tenga un valor diferente a NULL o lanza un error.
+- **CHECK**. Utilizado para garantizar la integridad de informacion mediante la definicion de una condicion que debe ser cumplicada para cada fila en la tabla. Permite definir reglas o restricciones personalizadas en los valores a insertar o actualizar para una o mas columnas. 
+> CHECK ayuda a mantener la calidad de los datos previniendo la invalidez o inconsistencia en la informacion.
 
 **SQL JOIN Queries**.
-- **INNER JOIN**.
-- **LEFT JOIN**.
-- **RIGTH JOIN**.
-- **OUTER JOIN**.
-- **SELF JOIN**.
-- **CROSS JOIN**.
+JOIN queries son utilizadas para combinar filas de dos o mas tablas basado en una relacion definida entre ambas. 
+> JOINS permite recuperar informacion de multiples tablas en una sola consulta formando un dataset mas sencillo de entender.
+- **INNER JOIN**. Retorna solamente las filas donde existe una coincidencia en las columnas especificadas de todas las tablas involucradas en la union. **Si no existe una coincidencia en las columnas unidas la fila se excluye del resultado.**
+- **LEFT JOIN**. Retorna todas las filas de la tabla ubicada a la izquierda con las filas que coincidan de la tabla de la derecha. **Si no existe coincidencia en la tabla de la derecha el resultado sera definido con un valor de NULL para las columnas de la derecha**.
+- **RIGTH JOIN**. Retorna todas las filas de la tabla ubicada a la derecha con las filas que coincidan de la tabla de la izquierda. **Si no existe coincidencia en la tabla de la derecha el resultado sera definido con un valor de NULL para las columnas de la izquiera**.
+- **OUTER JOIN**. Combina los resultados de ambas tablas LEFT y RIGHT, retornando todas las filas de ambas tablas si existe una coincidencia la fila es incluida y en el caso contrario tambien es incluida pero agregando un valor de tipo NULL en el lugar de la informacion faltante.
+- **SELF JOIN**. Join especial que una tabla consigo mismo. 
+> Utilizado para comparar filas de la misma tabla, a menudo utilizado cuando existe una relacion jerarquica o conexion entre los datos de la misma tabla.
+
+- **CROSS JOIN**. Combinancion donde se produce un resultado basado en el numero de filas de la primera tabla multiplicado por el numero de filas de la segunda tabla. 
   
 **SQL Subqueries**.
-- **NESTED**.
-- **CORRELATED**.
+Tambien conocidas como **nested queries** o **inner queries** son consultas SQL embebidas en otra consulta. Pueden ser utilizadas en varias sentencias SQL como SELECT, FROM, WHERE y HAVING.
+> Permiten recuperar y manipular datos complejos al dividir las consultas complejas en partes más manejables. Utiles para crear criterios dinámicos, realizar cálculos o comparar conjuntos de resultados.
+
+- **NESTED**. Consultas embebidas junto con otra consulta SQL (Consulta dentro de otra Consulta)
+- **CORRELATED**. 
 
 **SQL Transactions**.
 - **ACID**.
