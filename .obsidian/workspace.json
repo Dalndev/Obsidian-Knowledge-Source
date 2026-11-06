@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d4364f3dc56ddd",
+        "id": "03babae7d3d5f310",
         "type": "tabs",
         "children": [
           {
-            "id": "aea1eaa62053af1d",
+            "id": "64b13bfe00ee80e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.1000061035156,
-    "collapsed": true
+    "width": 315.1000061035156
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -197,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.8515625
+    "width": 454.3828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,25 +216,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea1eaa62053af1d",
+  "active": "64b13bfe00ee80e3",
   "lastOpenFiles": [
-    "jobs/asinfo/SQL/SQL Subqueries.md",
+    "jobs/asinfo/Technical Review (Data Structure).md",
+    "jobs/asinfo/SQL/SQL Constrains.md",
     "jobs/asinfo/SQL/Technical Review (SQL).md",
     "jobs/asinfo/SQL/SQL JOIN Queries.md",
-    "jobs/asinfo/SQL/SQL Constrains.md",
-    "jobs/asinfo/SQL/SQL Data Definition Language.md",
-    "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
+    "jobs/asinfo/SQL/SQL Subqueries.md",
+    "README.md",
     "jobs/asinfo/SQL/SQL Sentencias.md",
     "jobs/asinfo/SQL/SQL Operadores.md",
-    "jobs/asinfo/Technical Review (SQL).md",
-    "jobs/props/Frappe (Learning Management System).md",
+    "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
+    "jobs/asinfo/SQL/SQL Data Definition Language.md",
     "jobs/asinfo/SQL",
-    "jobs/props/Frappe LMS (Learning Management System).md",
-    "jobs/props",
-    "jobs/asinfo/Technical Review (Java).md",
     "jobs/asinfo/Technical Review (Design Patterns).md",
-    "jobs/asinfo/Technical Review (Data Structure).md",
-    "canvas/261029-B2B-Brainstorm.excalidraw.md",
+    "jobs/asinfo/Technical Review (Java).md",
+    "jobs/props/Frappe (Learning Management System).md",
+    "jobs/props",
     "jobs/asinfo",
     "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md",
     "canvas/250526-InventoryTracker.excalidraw.md",
@@ -250,7 +248,9 @@
     "src/business/@Factoring/Finanzas/Balances Generales.md",
     "src/business/@Factoring/Finanzas/Balance General.md",
     "public/drafts/ai/Prompt Engineering.md",
+    "public/drafts/ai/AI Chatboot with RAG.md",
     "src/skills",
+    "others/ansible/Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite.md",
     "public/drafts/cloud",
     "src/business",
     "others/ansible",

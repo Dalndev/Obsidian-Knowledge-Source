@@ -5,16 +5,24 @@
       "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
     },
     {
-      "basename": "SQL Subqueries",
-      "path": "jobs/asinfo/SQL/SQL Subqueries.md"
+      "basename": "Technical Review (Data Structure)",
+      "path": "jobs/asinfo/Technical Review (Data Structure).md"
+    },
+    {
+      "basename": "SQL Constrains",
+      "path": "jobs/asinfo/SQL/SQL Constrains.md"
     },
     {
       "basename": "SQL JOIN Queries",
       "path": "jobs/asinfo/SQL/SQL JOIN Queries.md"
     },
     {
-      "basename": "SQL Constrains",
-      "path": "jobs/asinfo/SQL/SQL Constrains.md"
+      "basename": "SQL Subqueries",
+      "path": "jobs/asinfo/SQL/SQL Subqueries.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "SQL Data Definition Language",
@@ -31,10 +39,6 @@
     {
       "basename": "SQL Operadores",
       "path": "jobs/asinfo/SQL/SQL Operadores.md"
-    },
-    {
-      "basename": "Technical Review (Data Structure)",
-      "path": "jobs/asinfo/Technical Review (Data Structure).md"
     },
     {
       "basename": "Technical Review (Design Patterns)",
@@ -195,10 +199,6 @@
     {
       "basename": "Tasks Management, Best Practices on your work flow",
       "path": "public/drafts/knowledge/Tasks Management, Best Practices on your work flow.md"
-    },
-    {
-      "basename": "Atomic Design & Design System",
-      "path": "src/core/@AtomicDesign/Atomic Design & Design System.md"
     }
   ],
   "omittedPaths": [],
