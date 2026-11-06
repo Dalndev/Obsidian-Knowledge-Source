@@ -43,4 +43,3 @@ Subsets de SQL para definir y gestionar las estructuras "database objects". Perm
 - **ALTER**. Utilizada para modificar la estructura de una tabla existente. Ya sea agregando, eliminando o modificando columnas
 - **DROP**. Remueve una tabla y la información de manera permanente de una base datos. La operación elimina completamente la estructura e información a menos de que exista un respaldo.
 - **TRUNCATE**. Remueve todas las filas de una tabla, reseteando la tabla a su estado inicial (Estado Vacío), pero mantiene la estructura (columnas, restricciones, etc.)
-
