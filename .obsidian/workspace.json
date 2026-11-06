@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/asinfo/SQL/Technical Review (SQL).md",
+                "file": "jobs/asinfo/SQL/SQL Operadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Review (SQL)"
+              "title": "SQL Operadores"
             }
           }
         ]
@@ -218,16 +218,16 @@
   },
   "active": "64b13bfe00ee80e3",
   "lastOpenFiles": [
-    "jobs/asinfo/Technical Review (Data Structure).md",
-    "jobs/asinfo/SQL/SQL Constrains.md",
     "jobs/asinfo/SQL/Technical Review (SQL).md",
-    "jobs/asinfo/SQL/SQL JOIN Queries.md",
-    "jobs/asinfo/SQL/SQL Subqueries.md",
-    "README.md",
-    "jobs/asinfo/SQL/SQL Sentencias.md",
     "jobs/asinfo/SQL/SQL Operadores.md",
+    "jobs/asinfo/SQL/SQL Subqueries.md",
+    "jobs/asinfo/SQL/SQL Sentencias.md",
     "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
     "jobs/asinfo/SQL/SQL Data Definition Language.md",
+    "jobs/asinfo/Technical Review (Data Structure).md",
+    "jobs/asinfo/SQL/SQL Constrains.md",
+    "jobs/asinfo/SQL/SQL JOIN Queries.md",
+    "README.md",
     "jobs/asinfo/SQL",
     "jobs/asinfo/Technical Review (Design Patterns).md",
     "jobs/asinfo/Technical Review (Java).md",

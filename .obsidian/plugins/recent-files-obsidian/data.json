@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Technical Review (SQL)",
-      "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
+      "basename": "SQL Operadores",
+      "path": "jobs/asinfo/SQL/SQL Operadores.md"
+    },
+    {
+      "basename": "SQL Subqueries",
+      "path": "jobs/asinfo/SQL/SQL Subqueries.md"
+    },
+    {
+      "basename": "SQL Sentencias",
+      "path": "jobs/asinfo/SQL/SQL Sentencias.md"
+    },
+    {
+      "basename": "SQL Data Manipulation Language",
+      "path": "jobs/asinfo/SQL/SQL Data Manipulation Language.md"
+    },
+    {
+      "basename": "SQL Data Definition Language",
+      "path": "jobs/asinfo/SQL/SQL Data Definition Language.md"
     },
     {
       "basename": "Technical Review (Data Structure)",
@@ -17,28 +33,8 @@
       "path": "jobs/asinfo/SQL/SQL JOIN Queries.md"
     },
     {
-      "basename": "SQL Subqueries",
-      "path": "jobs/asinfo/SQL/SQL Subqueries.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "SQL Data Definition Language",
-      "path": "jobs/asinfo/SQL/SQL Data Definition Language.md"
-    },
-    {
-      "basename": "SQL Data Manipulation Language",
-      "path": "jobs/asinfo/SQL/SQL Data Manipulation Language.md"
-    },
-    {
-      "basename": "SQL Sentencias",
-      "path": "jobs/asinfo/SQL/SQL Sentencias.md"
-    },
-    {
-      "basename": "SQL Operadores",
-      "path": "jobs/asinfo/SQL/SQL Operadores.md"
     },
     {
       "basename": "Technical Review (Design Patterns)",
