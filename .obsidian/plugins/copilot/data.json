@@ -331,8 +331,8 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.18",
+  "lastDismissedVersion": "4.0.18",
+  "lastShownStartupVersion": "4.0.17",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -377,15 +377,25 @@
   "convertedDocOutputFolder": "",
   "agentMode": {
     "byok": {},
-    "activeBackend": "claude",
+    "activeBackend": "opencode",
     "backends": {},
     "debugFullFrames": true,
     "offerFeedbackCards": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
-    "welcomeDismissed": false,
+    "welcomeDismissed": true,
     "skills": {
       "folder": "copilot/skills"
+    },
+    "deviceProfiles": {
+      "0c22d717-7a20-463f-8df1-ddfe2cd1824a": {
+        "opencode": {
+          "binaryPath": "/Users/dalndev/.obsidian-copilot/opencode/2.0.22/bin/opencode",
+          "binaryVersion": "2.0.22",
+          "binarySource": "managed",
+          "probeSessionId": "ses_e4c94d541ffex2gVBbT6ozFOPn"
+        }
+      }
     }
   },
   "providers": {
@@ -399,6 +409,18 @@
       "requiresApiKey": false,
       "providerId": "02a346d8-0200-49d2-a948-a3e1d450c76e",
       "addedAt": 1787705103815,
+      "apiKeyKeychainId": null
+    },
+    "c27d61fb-f033-4a95-b680-4bb911721c03": {
+      "providerType": "openai-compatible",
+      "displayName": "OpenCode",
+      "origin": {
+        "kind": "agent",
+        "agentType": "opencode"
+      },
+      "requiresApiKey": false,
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "addedAt": 1794011507440,
       "apiKeyKeychainId": null
     }
   },
@@ -452,6 +474,105 @@
       },
       "configuredModelId": "467fb509-d8b3-4a47-992f-16fc844bbe93",
       "configuredAt": 1787793670587
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/big-pickle",
+        "displayName": "opencode/Big Pickle"
+      },
+      "configuredModelId": "646260ee-f161-4432-a294-ae0abb0a05c1",
+      "configuredAt": 1794011508548
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/mimo-v2.6-flash-free",
+        "displayName": "opencode/MiMo-V2.6-Flash Free"
+      },
+      "configuredModelId": "4502b489-c420-40a2-8a90-78ce40d2c9ce",
+      "configuredAt": 1794011508550
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/nemotron-3.5-lightning-free",
+        "displayName": "opencode/Nemotron 3.5 Lightning Free"
+      },
+      "configuredModelId": "0f04cc10-f8b1-49f0-a2e9-b014a5df87e8",
+      "configuredAt": 1794011508550
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/beam-free",
+        "displayName": "opencode/Beam Free"
+      },
+      "configuredModelId": "61a749cb-c337-41a0-a4f4-1e7a0629567d",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/crouton-alpha-free",
+        "displayName": "opencode/Crouton Alpha Free"
+      },
+      "configuredModelId": "0e01431e-0063-4b7c-816a-e6d9f78a9520",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/deepseek-v4.1-flash-free",
+        "displayName": "opencode/DeepSeek V4.1 Flash Free"
+      },
+      "configuredModelId": "da5564da-e2b7-452d-ac05-32d276cb9997",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/flint-40b-free",
+        "displayName": "opencode/Flint 40B Free"
+      },
+      "configuredModelId": "cc497e20-9ae4-4d93-82cf-db9a441c0708",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/glm-5.3-flash-free",
+        "displayName": "opencode/GLM-5.3-Flash Free"
+      },
+      "configuredModelId": "837a23e8-a7a0-4723-ad0c-5fdc8338b4cb",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/iceman-free",
+        "displayName": "opencode/Iceman Free"
+      },
+      "configuredModelId": "d48d1303-9d54-455e-b651-8e2a55370eb0",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/nemotron-3.5-super-vl-free",
+        "displayName": "opencode/Nemotron 3.5 Super VL Free"
+      },
+      "configuredModelId": "6df88246-5c90-4efc-b75e-8b565966fc75",
+      "configuredAt": 1794011508552
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/inkling-2-small-free",
+        "displayName": "opencode/Inkling 2 Small Free"
+      },
+      "configuredModelId": "56e9a94e-661b-4d1a-958e-a2bd977b7f9c",
+      "configuredAt": 1794015121497
     }
   ],
   "backends": {
@@ -461,6 +582,11 @@
         "a3341fee-725b-400c-9e9f-56fa3be8ba16",
         "4a19a0cc-774b-4d0f-b04e-de02d56ca8fb",
         "e1c1f7ae-aaac-4912-a577-c0b8123b2127"
+      ]
+    },
+    "opencode": {
+      "enabledModels": [
+        "646260ee-f161-4432-a294-ae0abb0a05c1"
       ]
     }
   },
