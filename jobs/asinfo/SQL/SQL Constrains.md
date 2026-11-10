@@ -1,3 +1,9 @@
+---
+tags:
+  - techreview
+  - review
+  - sql
+---
 **PRIMARY KEY**. Identificador único asignado a cada registro de una tabla. Permite que cada registro/fila sea único e identificable evitando duplicidad y asegurando la integridad de la información.
 
 > La PRIMARY KEY esta compuesta de una o mas columnas las cuales deben tener valores únicos sin entradas de tipo NULL.

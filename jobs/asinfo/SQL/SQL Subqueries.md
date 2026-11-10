@@ -5,6 +5,7 @@ tags:
   - sql
 ---
 Tambien conocidas como **nested queries** o **inner queries** son consultas SQL embebidas en otra consulta. Pueden ser utilizadas en varias sentencias SQL como **SELECT**, **FROM**, **WHERE** y **HAVING**.
+
 > Permiten recuperar y manipular datos complejos al dividir las consultas complejas en partes más manejables. Útiles para crear criterios dinámicos, realizar cálculos o comparar conjuntos de resultados.
 
 **NESTED**. 
@@ -38,11 +39,11 @@ Egs.
 
 ```SQL
 SELECT * 
-FROM t1 
-WHERE column1 = ANY (
-    SELECT column1 
-    FROM t2 
-    WHERE t2.column2 = t1.column2
+FROM T1 
+WHERE C1 = ANY (
+    SELECT C2 
+    FROM T2 
+    WHERE T2.C2 = T1.C2
 );
 ```
 

@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d4364f3dc56ddd",
+        "id": "e3f26d99226ff823",
         "type": "tabs",
         "children": [
           {
-            "id": "aea1eaa62053af1d",
+            "id": "253c0a1d8230d140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "jobs/asinfo/SQL/SQL Sentencias.md",
-                "mode": "source",
-                "source": false
+                "aFile": "jobs/asinfo/SQL/SQL Data Definition Language.md",
+                "bFile": "jobs/asinfo/SQL/SQL Data Definition Language.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "SQL Sentencias"
+              "icon": "diff",
+              "title": "Diff: SQL Data Definition Language  (Index)"
             }
           }
         ]
@@ -90,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.34765625
+    "width": 303.1000061035156
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -167,8 +168,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot Quick Chat"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -192,12 +193,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 450.9921875,
-    "collapsed": true
+    "width": 450.9921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,51 +209,45 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-importer:Import notes": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-projects:Open projects": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea1eaa62053af1d",
+  "active": "253c0a1d8230d140",
   "lastOpenFiles": [
+    "jobs/asinfo/SQL/Technical Review (SQL).md",
+    "jobs/asinfo/Java/JAVA Collections (Streams).md",
+    "jobs/asinfo/Java/JAVA Collections (Sets).md",
+    "jobs/asinfo/Java/JAVA Collections (Lists).md",
+    "jobs/asinfo/Java/JAVA Collections (LinkedList).md",
+    "jobs/asinfo/Java/JAVA Collections (Collectors).md",
+    "jobs/asinfo/Java/JAVA Collections (Comparator).md",
+    "jobs/asinfo/Java/JAVA Collections (ArrayList).md",
+    "jobs/asinfo/Java/JAVA Collections (Arrays).md",
+    "jobs/asinfo/Java/JAVA Collections (HashMap).md",
+    "jobs/asinfo/Java/JAVA Collections (Iterator).md",
+    "jobs/asinfo/Java/JAVA OPP.md",
+    "jobs/asinfo/Java/JAVA Collections (Map).md",
+    "jobs/asinfo/Java/Java Strings.md",
+    "jobs/asinfo/Java/Untitled",
+    "jobs/asinfo/SQL/SQL Operadores.md",
+    "jobs/asinfo/SQL/SQL JOIN Queries.md",
     "jobs/asinfo/SQL/SQL Subqueries.md",
     "jobs/asinfo/SQL/SQL Sentencias.md",
-    "jobs/asinfo/SQL/SQL Operadores.md",
-    "copilot/copilot-conversations/Agrega_ejemplos_de_las_sentencias_definidas_en_el_archivo_en@20261106_193437.md",
-    "copilot/copilot-conversations/agent__Agrega_ejemplos_de_las_siguientes_sentencias_en_donde_se_explique@20261106_193311.md",
-    "jobs/asinfo/SQL/SQL Constrains.md",
-    "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
-    "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/obsidian-markdown/references",
-    "copilot/skills/obsidian-markdown",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-fetch-x/fetch-x.ps1",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "copilot/skills/copilot-web-fetch/SKILL.md",
-    "copilot/skills/copilot-web-search/SKILL.md",
-    "jobs/asinfo/SQL/SQL JOIN Queries.md",
-    "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
     "jobs/asinfo/SQL/SQL Data Definition Language.md",
-    "jobs/asinfo/SQL/Technical Review (SQL).md",
-    "jobs/asinfo/Technical Review (Data Structure).md",
-    "jobs/asinfo/Technical Review (SQL).md",
-    "jobs/props/Frappe (Learning Management System).md",
+    "jobs/asinfo/SQL/SQL Constrains.md",
+    "jobs/asinfo/Java/Technical Review (JAVA).md",
+    "jobs/asinfo/Java/JAVA OOP.md",
+    "jobs/asinfo/Java/JAVA Collections (Hashmaps).md",
+    "jobs/asinfo/Java/JAVA Loops.md",
+    "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
+    "jobs/speed-motor-preindec/250526-InventoryTracker-BrainStorm.excalidraw.md",
+    "jobs/speed-motor-preindec",
+    "jobs/asinfo/Java",
+    "jobs/asinfo/SQL",
     "public/drafts/utils/Untitled.canvas",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",

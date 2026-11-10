@@ -11,6 +11,8 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "showLineNumber": true,
-  "strictLineBreaks": false
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "autoPairMarkdown": true,
+  "autoConvertHtml": true
 }

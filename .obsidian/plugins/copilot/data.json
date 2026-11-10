@@ -332,7 +332,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": "4.0.18",
-  "lastShownStartupVersion": "4.0.17",
+  "lastShownStartupVersion": "4.0.19",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -514,15 +514,6 @@
     {
       "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
       "info": {
-        "id": "opencode/crouton-alpha-free",
-        "displayName": "opencode/Crouton Alpha Free"
-      },
-      "configuredModelId": "0e01431e-0063-4b7c-816a-e6d9f78a9520",
-      "configuredAt": 1794011508552
-    },
-    {
-      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
-      "info": {
         "id": "opencode/deepseek-v4.1-flash-free",
         "displayName": "opencode/DeepSeek V4.1 Flash Free"
       },
@@ -573,6 +564,15 @@
       },
       "configuredModelId": "56e9a94e-661b-4d1a-958e-a2bd977b7f9c",
       "configuredAt": 1794015121497
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/longcat-2.5-free",
+        "displayName": "opencode/LongCat 2.5 Free"
+      },
+      "configuredModelId": "8997493e-6dc5-436b-94d6-2a77757a7026",
+      "configuredAt": 1794266492816
     }
   ],
   "backends": {
@@ -655,25 +655,6 @@
         "id": "deepseek-v4-pro",
         "displayName": "DeepSeek V4 Pro",
         "description": "A top-tier model for the hardest reasoning and agentic tasks.",
-        "toolCall": true,
-        "reasoning": true,
-        "reasoningEfforts": [],
-        "modalities": {
-          "input": [
-            "text"
-          ],
-          "output": [
-            "text"
-          ]
-        },
-        "limits": {
-          "context": 1048576
-        }
-      },
-      {
-        "id": "deepseek-v4-flash-0731",
-        "displayName": "DeepSeek V4 Flash 0731",
-        "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
         "reasoningEfforts": [],
