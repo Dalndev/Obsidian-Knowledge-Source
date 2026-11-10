@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f9d2ddb3b64057e",
+        "id": "af9626ae292b857b",
         "type": "tabs",
         "children": [
           {
-            "id": "9bed8148fcecaf16",
+            "id": "3ba6a5b6c5e5e1f3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.1000061035156,
-    "collapsed": true
+    "width": 303.1000061035156
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -193,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.3828125
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +211,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bed8148fcecaf16",
+  "active": "d04e722eb1375090",
   "lastOpenFiles": [
-    "jobs/asinfo/SQL/SQL Operadores.md",
     "jobs/asinfo/SQL/Technical Review (SQL).md",
+    "jobs/asinfo/Java/JAVA Collections (Streams).md",
+    "jobs/asinfo/Java/JAVA Collections (Sets).md",
+    "jobs/asinfo/Java/JAVA Collections (Lists).md",
+    "jobs/asinfo/Java/JAVA Collections (LinkedList).md",
+    "jobs/asinfo/Java/JAVA Collections (Collectors).md",
+    "jobs/asinfo/Java/JAVA Collections (Comparator).md",
+    "jobs/asinfo/Java/JAVA Collections (ArrayList).md",
+    "jobs/asinfo/Java/JAVA Collections (Arrays).md",
+    "jobs/asinfo/Java/JAVA Collections (HashMap).md",
+    "jobs/asinfo/Java/JAVA Collections (Iterator).md",
+    "jobs/asinfo/Java/JAVA OPP.md",
+    "jobs/asinfo/Java/JAVA Collections (Map).md",
+    "jobs/asinfo/Java/Java Strings.md",
+    "jobs/asinfo/Java/Untitled",
+    "jobs/asinfo/SQL/SQL Operadores.md",
+    "jobs/asinfo/SQL/SQL JOIN Queries.md",
     "jobs/asinfo/SQL/SQL Subqueries.md",
     "jobs/asinfo/SQL/SQL Sentencias.md",
     "jobs/asinfo/SQL/SQL Data Definition Language.md",
