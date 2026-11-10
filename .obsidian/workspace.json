@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f26d99226ff823",
+        "id": "1f9d2ddb3b64057e",
         "type": "tabs",
         "children": [
           {
-            "id": "253c0a1d8230d140",
+            "id": "9bed8148fcecaf16",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -91,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.1000061035156
+    "width": 315.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -197,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 454.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,25 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04e722eb1375090",
+  "active": "9bed8148fcecaf16",
   "lastOpenFiles": [
-    "jobs/asinfo/SQL/Technical Review (SQL).md",
-    "jobs/asinfo/Java/JAVA Collections (Streams).md",
-    "jobs/asinfo/Java/JAVA Collections (Sets).md",
-    "jobs/asinfo/Java/JAVA Collections (Lists).md",
-    "jobs/asinfo/Java/JAVA Collections (LinkedList).md",
-    "jobs/asinfo/Java/JAVA Collections (Collectors).md",
-    "jobs/asinfo/Java/JAVA Collections (Comparator).md",
-    "jobs/asinfo/Java/JAVA Collections (ArrayList).md",
-    "jobs/asinfo/Java/JAVA Collections (Arrays).md",
-    "jobs/asinfo/Java/JAVA Collections (HashMap).md",
-    "jobs/asinfo/Java/JAVA Collections (Iterator).md",
-    "jobs/asinfo/Java/JAVA OPP.md",
-    "jobs/asinfo/Java/JAVA Collections (Map).md",
-    "jobs/asinfo/Java/Java Strings.md",
-    "jobs/asinfo/Java/Untitled",
     "jobs/asinfo/SQL/SQL Operadores.md",
-    "jobs/asinfo/SQL/SQL JOIN Queries.md",
+    "jobs/asinfo/SQL/Technical Review (SQL).md",
     "jobs/asinfo/SQL/SQL Subqueries.md",
     "jobs/asinfo/SQL/SQL Sentencias.md",
     "jobs/asinfo/SQL/SQL Data Definition Language.md",

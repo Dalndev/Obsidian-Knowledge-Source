@@ -331,7 +331,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": "4.0.18",
+  "lastDismissedVersion": null,
   "lastShownStartupVersion": "4.0.19",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
