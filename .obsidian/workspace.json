@@ -11,10 +11,14 @@
             "id": "3ba6a5b6c5e5e1f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ARs Tracker Entidad-Relación"
             }
           }
         ]
@@ -211,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04e722eb1375090",
+  "active": "3ba6a5b6c5e5e1f3",
   "lastOpenFiles": [
+    "jobs/andelytica/projects/ARs Tracker/ARs Tracker Especificación de Software.md",
     "jobs/asinfo/SQL/Technical Review (SQL).md",
     "jobs/asinfo/Java/JAVA Collections (Streams).md",
     "jobs/asinfo/Java/JAVA Collections (Sets).md",
@@ -239,7 +244,6 @@
     "jobs/asinfo/Java/JAVA Collections (Hashmaps).md",
     "jobs/asinfo/Java/JAVA Loops.md",
     "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
-    "jobs/speed-motor-preindec/250526-InventoryTracker-BrainStorm.excalidraw.md",
     "jobs/speed-motor-preindec",
     "jobs/asinfo/Java",
     "jobs/asinfo/SQL",

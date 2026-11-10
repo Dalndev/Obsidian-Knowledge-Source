@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ARs Tracker Entidad-Relación",
+      "path": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md"
+    },
+    {
+      "basename": "ARs Tracker Especificación de Software",
+      "path": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Especificación de Software.md"
+    },
+    {
       "basename": "Technical Review (SQL)",
       "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
     },
@@ -114,7 +122,7 @@
     },
     {
       "basename": "Application Registration",
-      "path": "jobs/andelytica/Knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
+      "path": "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
     },
     {
       "basename": "Análisis Financiero",
@@ -191,14 +199,6 @@
     {
       "basename": "Azure Change (Events) Notifications",
       "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
-    },
-    {
-      "basename": "M365 Change Notifications",
-      "path": "public/drafts/microsoft/azure/M365 Change Notifications.md"
-    },
-    {
-      "basename": "Microsoft Exchange (EAC)",
-      "path": "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md"
     }
   ],
   "omittedPaths": [],
