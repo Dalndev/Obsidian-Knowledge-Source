@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "af9626ae292b857b",
+        "id": "a4089d1562cb5893",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba6a5b6c5e5e1f3",
+            "id": "d9a8c07a724b6140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md",
+                "file": "jobs/asinfo/Java/JAVA Collections (LinkedList).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARs Tracker Entidad-Relación"
+              "title": "JAVA Collections (LinkedList)"
+            }
+          },
+          {
+            "id": "ca4f8f449ff27fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jobs/asinfo/Java/JAVA Collections (Streams).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JAVA Collections (Streams)"
+            }
+          },
+          {
+            "id": "117f95909bce3d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jobs/asinfo/Java/JAVA Collections (Comparator).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JAVA Collections (Comparator)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.1000061035156
+    "width": 329.34765625
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -167,8 +196,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot Quick Chat"
             }
           },
           {
@@ -192,11 +221,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 450.9921875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,45 +238,51 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-importer:Import notes": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-projects:Open projects": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ba6a5b6c5e5e1f3",
+  "active": "ca4f8f449ff27fe5",
   "lastOpenFiles": [
+    "jobs/andelytica/projects/Quipus/Meets/$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos.md",
+    "jobs/andelytica/projects/Quipus/Meets",
+    "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md",
     "jobs/andelytica/projects/ARs Tracker/ARs Tracker Especificación de Software.md",
-    "jobs/asinfo/SQL/Technical Review (SQL).md",
-    "jobs/asinfo/Java/JAVA Collections (Streams).md",
-    "jobs/asinfo/Java/JAVA Collections (Sets).md",
-    "jobs/asinfo/Java/JAVA Collections (Lists).md",
-    "jobs/asinfo/Java/JAVA Collections (LinkedList).md",
-    "jobs/asinfo/Java/JAVA Collections (Collectors).md",
-    "jobs/asinfo/Java/JAVA Collections (Comparator).md",
-    "jobs/asinfo/Java/JAVA Collections (ArrayList).md",
-    "jobs/asinfo/Java/JAVA Collections (Arrays).md",
-    "jobs/asinfo/Java/JAVA Collections (HashMap).md",
-    "jobs/asinfo/Java/JAVA Collections (Iterator).md",
-    "jobs/asinfo/Java/JAVA OPP.md",
-    "jobs/asinfo/Java/JAVA Collections (Map).md",
-    "jobs/asinfo/Java/Java Strings.md",
-    "jobs/asinfo/Java/Untitled",
-    "jobs/asinfo/SQL/SQL Operadores.md",
-    "jobs/asinfo/SQL/SQL JOIN Queries.md",
-    "jobs/asinfo/SQL/SQL Subqueries.md",
-    "jobs/asinfo/SQL/SQL Sentencias.md",
-    "jobs/asinfo/SQL/SQL Data Definition Language.md",
-    "jobs/asinfo/SQL/SQL Constrains.md",
-    "jobs/asinfo/Java/Technical Review (JAVA).md",
-    "jobs/asinfo/Java/JAVA OOP.md",
-    "jobs/asinfo/Java/JAVA Collections (Hashmaps).md",
-    "jobs/asinfo/Java/JAVA Loops.md",
-    "jobs/asinfo/SQL/SQL Data Manipulation Language.md",
-    "jobs/speed-motor-preindec",
-    "jobs/asinfo/Java",
-    "jobs/asinfo/SQL",
+    "jobs/andelytica/projects/Quipus",
+    "jobs/andelytica/projects/ARs Tracker",
+    "jobs/andelytica/projects",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Sharepoint Online/$M365 SharePoint.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Microsoft Teams/$M365 Teams Admin Center.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/M365 Admin Center.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/$M365 Procesos de Gestión.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Groups.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/External Identities.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Entra ID.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Enterprise Apps.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Conditional Access.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Authentication Methods.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Intune/Estrategias MDM (Mobile Device Management).md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Azure/$M365 Portal Azure.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Exchange Online/$M365 Exchange Online.md",
+    "jobs/andelytica/knowledge/Infrastructure/Networking/Network. Villagomez Capital Infraestructura de Red.md",
+    "jobs/andelytica/knowledge/Infrastructure/NAS/Synology NAS Integration M365.md",
+    "jobs/andelytica/knowledge/Microsoft 365/Teams/Microsoft Teams. Manual de Usuario.md",
+    "jobs/andelytica/knowledge/Microsoft 365/Portal Azure/1Azure CLI WSL (Ubuntu).md",
+    "jobs/andelytica/knowledge/Microsoft 365/Multi-Tenant Organization/$Multi-tenant Sources.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Sharepoint Online",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Microsoft Teams",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Intune",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Exchange Online",
+    "jobs/andelytica/knowledge/Automation/Invoicement/n8n Azure (Infrastructure).md",
+    "jobs/andelytica/knowledge/Automation/Invoicement/n8n (Automation).md",
     "public/drafts/utils/Untitled.canvas",
     "assests/Pasted image 20261029130749 4.svg",
     "assests/Pasted image 20261029130749 3.svg",

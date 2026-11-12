@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "ARs Tracker Entidad-Relación",
-      "path": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md"
-    },
-    {
-      "basename": "ARs Tracker Especificación de Software",
-      "path": "jobs/andelytica/projects/ARs Tracker/ARs Tracker Especificación de Software.md"
-    },
-    {
-      "basename": "Technical Review (SQL)",
-      "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
-    },
-    {
       "basename": "JAVA Collections (Streams)",
       "path": "jobs/asinfo/Java/JAVA Collections (Streams).md"
     },
@@ -93,6 +81,10 @@
       "path": "jobs/asinfo/Java/JAVA Loops.md"
     },
     {
+      "basename": "Technical Review (SQL)",
+      "path": "jobs/asinfo/SQL/Technical Review (SQL).md"
+    },
+    {
       "basename": "SQL Data Manipulation Language",
       "path": "jobs/asinfo/SQL/SQL Data Manipulation Language.md"
     },
@@ -119,10 +111,6 @@
     {
       "basename": "250526-InventoryTracker.excalidraw",
       "path": "canvas/250526-InventoryTracker.excalidraw.md"
-    },
-    {
-      "basename": "Application Registration",
-      "path": "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Application Registration.md"
     },
     {
       "basename": "Análisis Financiero",
@@ -199,6 +187,14 @@
     {
       "basename": "Azure Change (Events) Notifications",
       "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
+    },
+    {
+      "basename": "M365 Change Notifications",
+      "path": "public/drafts/microsoft/azure/M365 Change Notifications.md"
+    },
+    {
+      "basename": "Microsoft Exchange (EAC)",
+      "path": "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md"
     }
   ],
   "omittedPaths": [],
