@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Metodologias de Toma de Apuntes",
+      "path": "public/now/Metodologias de Toma de Apuntes.md"
+    },
+    {
+      "basename": "Technical Review (JAVA)",
+      "path": "jobs/asinfo/Java/Technical Review (JAVA).md"
+    },
+    {
+      "basename": "Java Strings",
+      "path": "jobs/asinfo/Java/Java Strings.md"
+    },
+    {
+      "basename": "JAVA OPP",
+      "path": "jobs/asinfo/Java/JAVA OPP.md"
+    },
+    {
+      "basename": "JAVA Loops",
+      "path": "jobs/asinfo/Java/JAVA Loops.md"
+    },
+    {
       "basename": "JAVA Collections (Streams)",
       "path": "jobs/asinfo/Java/JAVA Collections (Streams).md"
     },
@@ -17,36 +37,28 @@
       "path": "jobs/asinfo/Java/JAVA Collections (LinkedList).md"
     },
     {
-      "basename": "JAVA Collections (Collectors)",
-      "path": "jobs/asinfo/Java/JAVA Collections (Collectors).md"
-    },
-    {
-      "basename": "JAVA Collections (Comparator)",
-      "path": "jobs/asinfo/Java/JAVA Collections (Comparator).md"
-    },
-    {
-      "basename": "JAVA Collections (ArrayList)",
-      "path": "jobs/asinfo/Java/JAVA Collections (ArrayList).md"
-    },
-    {
-      "basename": "JAVA Collections (Arrays)",
-      "path": "jobs/asinfo/Java/JAVA Collections (Arrays).md"
+      "basename": "JAVA Collections (Iterator)",
+      "path": "jobs/asinfo/Java/JAVA Collections (Iterator).md"
     },
     {
       "basename": "JAVA Collections (HashMap)",
       "path": "jobs/asinfo/Java/JAVA Collections (HashMap).md"
     },
     {
-      "basename": "JAVA Collections (Iterator)",
-      "path": "jobs/asinfo/Java/JAVA Collections (Iterator).md"
+      "basename": "JAVA Collections (Comparator)",
+      "path": "jobs/asinfo/Java/JAVA Collections (Comparator).md"
     },
     {
-      "basename": "JAVA OPP",
-      "path": "jobs/asinfo/Java/JAVA OPP.md"
+      "basename": "JAVA Collections (Collectors)",
+      "path": "jobs/asinfo/Java/JAVA Collections (Collectors).md"
     },
     {
-      "basename": "Java Strings",
-      "path": "jobs/asinfo/Java/Java Strings.md"
+      "basename": "JAVA Collections (Arrays)",
+      "path": "jobs/asinfo/Java/JAVA Collections (Arrays).md"
+    },
+    {
+      "basename": "JAVA Collections (ArrayList)",
+      "path": "jobs/asinfo/Java/JAVA Collections (ArrayList).md"
     },
     {
       "basename": "SQL Operadores",
@@ -71,14 +83,6 @@
     {
       "basename": "SQL Constrains",
       "path": "jobs/asinfo/SQL/SQL Constrains.md"
-    },
-    {
-      "basename": "Technical Review (JAVA)",
-      "path": "jobs/asinfo/Java/Technical Review (JAVA).md"
-    },
-    {
-      "basename": "JAVA Loops",
-      "path": "jobs/asinfo/Java/JAVA Loops.md"
     },
     {
       "basename": "Technical Review (SQL)",
