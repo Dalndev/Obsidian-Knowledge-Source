@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "BEM (Block Element Modifier)",
+      "path": "public/drafts/develop/css/BEM (Block Element Modifier).md"
+    },
+    {
+      "basename": "CSS Selectors",
+      "path": "public/drafts/develop/css/CSS Selectors.md"
+    },
+    {
       "basename": "Metodologias de Toma de Apuntes",
       "path": "public/now/Metodologias de Toma de Apuntes.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Azure Change (Events) Notifications",
       "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
-    },
-    {
-      "basename": "M365 Change Notifications",
-      "path": "public/drafts/microsoft/azure/M365 Change Notifications.md"
-    },
-    {
-      "basename": "Microsoft Exchange (EAC)",
-      "path": "public/drafts/microsoft/admins/Microsoft Exchange (EAC).md"
     }
   ],
   "omittedPaths": [],
