@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "260102-SmartCase-MVP.excalidraw",
+      "path": "canvas/260102-SmartCase-MVP.excalidraw.md"
+    },
+    {
       "basename": "261029-ARs-ActitvitiesTracker.excalidraw",
       "path": "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "B2B Collaboration by Cross-tenant Access",
       "path": "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
-    },
-    {
-      "basename": "Azure Change (Events) Notifications",
-      "path": "public/drafts/microsoft/azure/Azure Change (Events) Notifications.md"
     }
   ],
   "omittedPaths": [],

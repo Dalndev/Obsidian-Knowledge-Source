@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "839568ab2407c64d",
+        "id": "8ef4f6530b11deab",
         "type": "tabs",
         "children": [
           {
-            "id": "f416b15da28f1849",
+            "id": "405887be7e20d5ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "canvas/260102-SmartCase-MVP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "260102-SmartCase-MVP.excalidraw"
             }
           }
         ]
@@ -213,9 +215,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f416b15da28f1849",
+  "active": "405887be7e20d5ec",
   "lastOpenFiles": [
-    "jobs/andelytica/canvas/wireframes/261029-ARs-ActitvitiesTracker.excalidraw.md",
     "public/now/Metodologias de Toma de Apuntes.md",
     "public/drafts/develop/css/BEM (Block Element Modifier).md",
     "public/drafts/develop/css/CSS Selectors.md",
@@ -246,6 +247,7 @@
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/M365 Admin Center.md",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/$M365 Procesos de Gestión.md",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md",
+    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Sharepoint Online",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Microsoft Teams",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center",
