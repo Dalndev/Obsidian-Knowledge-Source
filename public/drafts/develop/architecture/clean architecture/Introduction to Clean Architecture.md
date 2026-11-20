@@ -6,7 +6,7 @@ tags:
   - clean-arch
 ref:
 ---
-> Designing is fundamentally about taking things apart... in such a way that they can be put back together. ...Separating things into things that can be composed that's what design is. 
+0> Designing is fundamentally about taking things apart... in such a way that they can be put back together. ...Separating things into things that can be composed that's what design is. 
 > *Rich Hickey. Design Composition and Performance*
 
 **Architecture & Design**.

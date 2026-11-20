@@ -582,6 +582,15 @@
       },
       "configuredModelId": "1ed29e71-e6ae-4b33-b44a-b2568208f9fa",
       "configuredAt": 1794352481352
+    },
+    {
+      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
+      "info": {
+        "id": "opencode/hy4-flash-free",
+        "displayName": "opencode/Hy4 flash Free"
+      },
+      "configuredModelId": "8bf145e2-2829-4a64-943b-6021bbd490b1",
+      "configuredAt": 1794874419245
     }
   ],
   "backends": {

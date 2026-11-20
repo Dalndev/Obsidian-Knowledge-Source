@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction to Clean Architecture",
+      "path": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md"
+    },
+    {
+      "basename": "Dependency Rule on Clean Architecture",
+      "path": "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md"
+    },
+    {
+      "basename": "$Patrones de Arquitectura de Software",
+      "path": "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md"
+    },
+    {
+      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
+      "path": "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md"
+    },
+    {
+      "basename": "Advantages, Cost & Implementation of Clean Architecture",
+      "path": "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md"
+    },
+    {
       "basename": "260102-SmartCase-MVP.excalidraw",
       "path": "canvas/260102-SmartCase-MVP.excalidraw.md"
     },
@@ -165,24 +185,8 @@
       "path": "others/ansible/Redhat. Acelera el desarrollo de aplicaciones con Red Hat Advanced Developer Suite.md"
     },
     {
-      "basename": "$Hexagonal Architecture, DDD (Domain Driven Development)",
-      "path": "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md"
-    },
-    {
       "basename": "Modifiers, State (Estado)",
       "path": "public/drafts/design/design system (ui)/Modifiers, State (Estado).md"
-    },
-    {
-      "basename": "Advantages, Cost & Implementation of Clean Architecture",
-      "path": "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md"
-    },
-    {
-      "basename": "Introduction to Clean Architecture",
-      "path": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md"
-    },
-    {
-      "basename": "Dependency Rule on Clean Architecture",
-      "path": "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md"
     },
     {
       "basename": "Git",
@@ -195,10 +199,6 @@
     {
       "basename": "Multitenant Organization in M365",
       "path": "public/drafts/microsoft/tenants/Multitenant Organization in M365.md"
-    },
-    {
-      "basename": "B2B Collaboration by Cross-tenant Access",
-      "path": "public/drafts/microsoft/tenants/B2B Collaboration by Cross-tenant Access.md"
     }
   ],
   "omittedPaths": [],

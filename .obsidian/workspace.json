@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef4f6530b11deab",
+        "id": "036db7e38c840476",
         "type": "tabs",
         "children": [
           {
-            "id": "405887be7e20d5ec",
+            "id": "8c479b520aec4200",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "canvas/260102-SmartCase-MVP.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "260102-SmartCase-MVP.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.34765625,
-    "collapsed": true
+    "width": 329.34765625
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -166,8 +163,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot Quick Chat"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -176,8 +173,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -186,8 +183,8 @@
             "state": {
               "type": "copilot-agent-chat-view",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent Chat"
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
             }
           }
         ],
@@ -208,15 +205,21 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-importer:Import notes": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-projects:Open projects": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "405887be7e20d5ec",
+  "active": "8c479b520aec4200",
   "lastOpenFiles": [
+    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
+    "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
+    "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md",
+    "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
+    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
+    "canvas/260102-SmartCase-MVP.excalidraw.md",
     "public/now/Metodologias de Toma de Apuntes.md",
     "public/drafts/develop/css/BEM (Block Element Modifier).md",
     "public/drafts/develop/css/CSS Selectors.md",
@@ -242,12 +245,6 @@
     "jobs/andelytica/projects/Quipus",
     "jobs/andelytica/projects/ARs Tracker",
     "jobs/andelytica/projects",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Sharepoint Online/$M365 SharePoint.md",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Microsoft Teams/$M365 Teams Admin Center.md",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/M365 Admin Center.md",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center/$M365 Procesos de Gestión.md",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Users.md",
-    "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Entra ID/Multi-Factor Authentication.md",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Sharepoint Online",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/Microsoft Teams",
     "jobs/andelytica/knowledge/Microsoft 365/M365 Admin Centers/M365 Admin Center",
