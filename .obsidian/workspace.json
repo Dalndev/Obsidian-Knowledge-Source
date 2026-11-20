@@ -11,10 +11,14 @@
             "id": "8c479b520aec4200",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to Clean Architecture"
             }
           }
         ]
@@ -214,11 +218,11 @@
   },
   "active": "8c479b520aec4200",
   "lastOpenFiles": [
+    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
     "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md",
     "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
-    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "canvas/260102-SmartCase-MVP.excalidraw.md",
     "public/now/Metodologias de Toma de Apuntes.md",
     "public/drafts/develop/css/BEM (Block Element Modifier).md",
