@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "036db7e38c840476",
+        "id": "48f21312617bd1ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8c479b520aec4200",
+            "id": "3647f423b1b0eb2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
-                "mode": "source",
-                "source": false
+                "file": "canvas/260102-Smartcase-MVP.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to Clean Architecture"
+              "icon": "excalidraw-icon",
+              "title": "260102-Smartcase-MVP.excalidraw"
             }
           }
         ]
@@ -90,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.34765625
+    "width": 329.34765625,
+    "collapsed": true
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -216,14 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c479b520aec4200",
+  "active": "3647f423b1b0eb2a",
   "lastOpenFiles": [
-    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
+    "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
     "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md",
     "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
-    "canvas/260102-SmartCase-MVP.excalidraw.md",
+    "canvas/260102-Smartcase-MVP.excalidraw.md",
     "public/now/Metodologias de Toma de Apuntes.md",
     "public/drafts/develop/css/BEM (Block Element Modifier).md",
     "public/drafts/develop/css/CSS Selectors.md",
