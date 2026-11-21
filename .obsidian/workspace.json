@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48f21312617bd1ce",
+        "id": "036db7e38c840476",
         "type": "tabs",
         "children": [
           {
-            "id": "3647f423b1b0eb2a",
+            "id": "8c479b520aec4200",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "canvas/260102-Smartcase-MVP.excalidraw.md"
+                "file": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "260102-Smartcase-MVP.excalidraw"
+              "icon": "lucide-file",
+              "title": "Introduction to Clean Architecture"
             }
           }
         ]
@@ -88,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.34765625,
-    "collapsed": true
+    "width": 329.34765625
   },
   "right": {
     "id": "62fd29d0f725f7af",
@@ -215,14 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3647f423b1b0eb2a",
+  "active": "8c479b520aec4200",
   "lastOpenFiles": [
-    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
+    "canvas/260102-Smartcase-MVP.excalidraw.md",
     "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
+    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
     "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md",
     "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
-    "canvas/260102-Smartcase-MVP.excalidraw.md",
+    "canvas/260102-SmartCase-MVP.excalidraw.md",
     "public/now/Metodologias de Toma de Apuntes.md",
     "public/drafts/develop/css/BEM (Block Element Modifier).md",
     "public/drafts/develop/css/CSS Selectors.md",
@@ -244,7 +246,6 @@
     "jobs/andelytica/projects/Quipus/Meets/$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos.md",
     "jobs/andelytica/projects/Quipus/Meets",
     "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md",
-    "jobs/andelytica/projects/ARs Tracker/ARs Tracker Especificación de Software.md",
     "jobs/andelytica/projects/Quipus",
     "jobs/andelytica/projects/ARs Tracker",
     "jobs/andelytica/projects",
