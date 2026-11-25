@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gi",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,11 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f63842b5950588",
+  "active": "8c479b520aec4200",
   "lastOpenFiles": [
+    "public/drafts/utils/cheatsheets/Git.md",
+    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
     "canvas/260102-Smartcase-MVP.excalidraw.md",
     "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md",
-    "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md",
     "public/drafts/develop/architecture/clean architecture/Dependency Rule on Clean Architecture.md",
     "public/drafts/develop/architecture/$Patrones de Arquitectura de Software.md",
     "public/drafts/develop/architecture/$Hexagonal Architecture, DDD (Domain Driven Development).md",
@@ -246,7 +246,6 @@
     "jobs/asinfo/Java/JAVA Collections (ArrayList).md",
     "jobs/andelytica/projects/Quipus/Meets/$Sprint (260520). Visualización, Lista General & Dashboard de Información - Contactos.md",
     "jobs/andelytica/projects/Quipus/Meets",
-    "jobs/andelytica/projects/ARs Tracker/ARs Tracker Entidad-Relación.md",
     "jobs/andelytica/projects/Quipus",
     "jobs/andelytica/projects/ARs Tracker",
     "jobs/andelytica/projects",

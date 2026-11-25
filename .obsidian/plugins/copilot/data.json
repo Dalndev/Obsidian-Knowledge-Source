@@ -550,15 +550,6 @@
     {
       "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
       "info": {
-        "id": "opencode/longcat-2.5-free",
-        "displayName": "opencode/LongCat 2.5 Free"
-      },
-      "configuredModelId": "8997493e-6dc5-436b-94d6-2a77757a7026",
-      "configuredAt": 1794266492816
-    },
-    {
-      "providerId": "c27d61fb-f033-4a95-b680-4bb911721c03",
-      "info": {
         "id": "opencode/hy4-flash-free",
         "displayName": "opencode/Hy4 flash Free"
       },

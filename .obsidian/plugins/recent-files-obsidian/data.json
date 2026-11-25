@@ -5,6 +5,10 @@
       "path": "public/drafts/develop/architecture/clean architecture/Introduction to Clean Architecture.md"
     },
     {
+      "basename": "Git",
+      "path": "public/drafts/utils/cheatsheets/Git.md"
+    },
+    {
       "basename": "Advantages, Cost & Implementation of Clean Architecture",
       "path": "public/drafts/develop/architecture/clean architecture/Advantages, Cost & Implementation of Clean Architecture.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "Modifiers, State (Estado)",
       "path": "public/drafts/design/design system (ui)/Modifiers, State (Estado).md"
-    },
-    {
-      "basename": "Git",
-      "path": "public/drafts/utils/cheatsheets/Git.md"
     },
     {
       "basename": "Procesos de Importacion y Distribuición",
